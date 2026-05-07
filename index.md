@@ -1,4 +1,8 @@
-# Yui Tatsumi’s Website
+---
+layout: default
+title: Yui Tatsumi
+---
+
 
 En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150b701417?pvs=21)
 
