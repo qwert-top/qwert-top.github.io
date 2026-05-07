@@ -11,9 +11,33 @@ body {
   line-height: 1.7;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
-img {
-  max-width: 50px;
+.profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 24px;
+  margin: 24px 0 36px;
+}
+.profile img {
+  width: 120px;
+  height: 120px;
+  object-fit: cover;
   border-radius: 50%;
+  flex-shrink: 0;
+}
+.profile-content {
+  flex: 1;
+}
+.profile-content h1 {
+  margin-top: 0;
+}
+@media (max-width: 700px) {
+  .profile {
+    flex-direction: column;
+  }
+  .profile img {
+    width: 100px;
+    height: 100px;
+  }
 }
 blockquote {
   border-left: 4px solid #d0d7de;
@@ -37,7 +61,10 @@ hr {
 
 En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150b701417?pvs=21)
 
-![my_image.PNG](my_image.png)
+<div class="profile">
+  <img src="my_image.png" alt="Yui Tatsumi">
+
+  <div class="profile-content">
 
 # Yui Tatsumi
 
@@ -48,6 +75,9 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 My research interests include Artificial Intelligence, Computer Vision, and Signal Processing. I am working as a Research Assistant under Prof. Hiroshi Watanabe, primarily focusing on Neural Network-based Image Compression for Humans and Machines.
 
 I expect to complete my master course in Spring 2027 and am currently exploring industry research opportunities. Please feel free to reach out if you see a potential fit.
+
+  </div>
+</div>
 
 ## 🏫EDUCATION
 
