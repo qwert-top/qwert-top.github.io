@@ -12,7 +12,7 @@ body {
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 img {
-  max-width: 90px;
+  max-width: 50px;
   border-radius: 50%;
 }
 blockquote {
