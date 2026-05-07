@@ -5,14 +5,14 @@ title: Yui Tatsumi
 
 <style>
 body {
-  max-width: 900px;
+  max-width: 1200px;
   margin: 40px auto;
   padding: 0 20px;
   line-height: 1.7;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
 img {
-  max-width: 180px;
+  max-width: 90px;
   border-radius: 50%;
 }
 blockquote {
