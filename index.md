@@ -65,17 +65,26 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
   <img src="my_image.png" alt="Yui Tatsumi">
 
   <div class="profile-content">
+    <h1>Yui Tatsumi</h1>
 
-# Yui Tatsumi
+    <p>
+      <a href="https://github.com/qwert-top"><strong>Github</strong></a>　/　
+      <a href="http://linkedin.com/in/qwert-top"><strong>Linkedin</strong></a>　/　
+      <a href="https://scholar.google.com/citations?user=u1nK1wgAAAAJ"><strong>Google Scholar</strong></a>
+    </p>
 
-[**Github**](https://github.com/qwert-top)　/　[**Linkedin**](http://linkedin.com/in/qwert-top)　/　[**Google Scholar**](https://scholar.google.com/citations?user=u1nK1wgAAAAJ)
+    <p><strong>Hi! I’m Yui Tatsumi, a Master’s student in Computer Science at Waseda University, Japan.</strong></p>
 
-**Hi! I’m Yui Tatsumi, a Master’s student in Computer Science at Waseda University, Japan.**
+    <p>
+      My research interests include Artificial Intelligence, Computer Vision, and Signal Processing.
+      I am working as a Research Assistant under Prof. Hiroshi Watanabe, primarily focusing on
+      Neural Network-based Image Compression for Humans and Machines.
+    </p>
 
-My research interests include Artificial Intelligence, Computer Vision, and Signal Processing. I am working as a Research Assistant under Prof. Hiroshi Watanabe, primarily focusing on Neural Network-based Image Compression for Humans and Machines.
-
-I expect to complete my master course in Spring 2027 and am currently exploring industry research opportunities. Please feel free to reach out if you see a potential fit.
-
+    <p>
+      I expect to complete my master course in Spring 2027 and am currently exploring industry
+      research opportunities. Please feel free to reach out if you see a potential fit.
+    </p>
   </div>
 </div>
 
