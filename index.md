@@ -3,6 +3,37 @@ layout: default
 title: Yui Tatsumi
 ---
 
+<style>
+body {
+  max-width: 900px;
+  margin: 40px auto;
+  padding: 0 20px;
+  line-height: 1.7;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+}
+img {
+  max-width: 180px;
+  border-radius: 50%;
+}
+blockquote {
+  border-left: 4px solid #d0d7de;
+  background: #f6f8fa;
+  padding: 1em 1.2em;
+  margin: 1.2em 0;
+  border-radius: 8px;
+}
+blockquote p {
+  margin: 0.4em 0;
+}
+h1, h2, h3 {
+  line-height: 1.3;
+}
+hr {
+  border: 0;
+  border-top: 1px solid #d0d7de;
+  margin: 1.5em 0;
+}
+</style>
 
 En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150b701417?pvs=21)
 
@@ -22,121 +53,139 @@ I expect to complete my master course in Spring 2027 and am currently exploring 
 
 ---
 
-<aside>
 
-Apr.2025 - Present 
+> 
+>
+> Apr.2025 - Present 
+>
+> **Master of Engineering,**
+>
+> **Department of Computer Science and Communications Engineering, [Waseda University](https://www.waseda.jp/top/en/)**
+>
+> Supervisor: Prof. [Hiroshi Watanabe](https://www.ams.giti.waseda.ac.jp/)
+>
+> Topics: Image Compression for Humans/Machines
+>
+> - Conducting NICT commissioned research as a Research Assistant
+> 
 
-**Master of Engineering,**
 
-**Department of Computer Science and Communications Engineering, [Waseda University](https://www.waseda.jp/top/en/)**
 
-Supervisor: Prof. [Hiroshi Watanabe](https://www.ams.giti.waseda.ac.jp/)
+> 
+>
+> Apr.2021 - Mar.2025
+>
+> **Bachelor of Engineering,**
+>
+> **Department of** **Communications and Computer Engineering, [Waseda University](https://www.waseda.jp/top/en/)**
+>
+> GPA: 3.6/4.0 (**top 5%**) 
+>
+> Supervisor: Prof. [Hiroshi Watanabe](https://www.ams.giti.waseda.ac.jp/)
+>
+> Topics: Image Compression for Humans/Machines, Sign Language Recognition
+>
+> - Conducted NICT commissioned research as a Research Support Staff
+>
+> Relevant Coursework: Computer Programming, Multimedia Systems, Software Engineering, Computer Architecture, Information Theory, Operating System, Signal Processing and more.
+>
+> - Published papers at international and domestic conferences such as *IEEE GCCE 2024* and *PCSJ/IMPS 2024*
+> 
 
-Topics: Image Compression for Humans/Machines
 
-- Conducting NICT commissioned research as a Research Assistant
-</aside>
 
-<aside>
+> 
+>
+> Sep.2018 - Mar.2021
+>
+> **International Christian University High School**
+>
+> GPA: 4.8/5.0 
+>
+> 
 
-Apr.2021 - Mar.2025
 
-**Bachelor of Engineering,**
 
-**Department of** **Communications and Computer Engineering, [Waseda University](https://www.waseda.jp/top/en/)**
+> 
+>
+> Oct.2015 - June 2018
+>
+> Went to a public school at Hawaii, U.S.
+>
+> 
 
-GPA: 3.6/4.0 (**top 5%**) 
-
-Supervisor: Prof. [Hiroshi Watanabe](https://www.ams.giti.waseda.ac.jp/)
-
-Topics: Image Compression for Humans/Machines, Sign Language Recognition
-
-- Conducted NICT commissioned research as a Research Support Stuff
-
-Relevant Coursework: Computer Programming, Multimedia Systems, Software Engineering, Computer Architecture, Information Theory, Operating System, Signal Processing and more.
-
-- Published papers at international and domestic conferences such as *IEEE GCCE 2024* and *PCSJ/IMPS 2024*
-</aside>
-
-<aside>
-
-Sep.2018 - Mar.2021
-
-**International Christian University High School**
-
-GPA: 4.8/5.0 
-
-</aside>
-
-<aside>
-
-Oct.2015 - June 2018
-
-Went to a public school at Hawaii, U.S.
-
-</aside>
 
 ## 👔EXPERIENCE
 
 ---
 
-<aside>
 
-Apr.2025 - Mar.2026
+> 
+>
+> Apr.2025 - Mar.2026
+>
+> ### Research Assistant at Waseda University
+>
+> Research project commissioned by NICT, Grant No. 05101
+>
+> - Leading a research project commissioned by the National Institute of Information and Communications Technology (NICT), as a Research Assistant at Waseda University.
+> - Conducting research on Image Compression for Humans/Machines.
+> 
 
-### Research Assistant at Waseda University
 
-Research project commissioned by NICT, Grant No. 05101
 
-- Leading a research project commissioned by the National Institute of Information and Communications Technology (NICT), as a Research Assistant at Waseda University.
-- Conducting research on Image Compression for Humans/Machines.
-</aside>
+> 
+>
+> Jan.2026 - Jan.2026
+>
+> ### Research Internship at Hitachi, Central Research Laboratory
+>
+> R&D Group
+>
+> - Conducted research on reliability enhancement and self-evolution technologies for AI agents.
+> 
 
-<aside>
 
-Jan.2026 - Jan.2026
 
-### Research Internship at Hitachi, Central Research Laboratory
+> 
+>
+> Aug.2025 - Nov.2025
+>
+> ### **Research Scientist Internship at IBM Research - Tokyo**
+>
+> **AI Automation**
+>
+> - Conducted research and investigation on AI agents for compliance automation
+> 
 
-R&D Group
 
-- Conducted research on reliability enhancement and self-evolution technologies for AI agents.
-</aside>
 
-<aside>
+> 
+>
+> Aug.2025 - Sep.2025
+>
+> ### R&D Internship at Sansan
+>
+> R&D Automation Group
+>
+> - Conducted R&D on business card digitization, focusing on improving the performance and automation rate of Viola, an in-house VLM developed at Sansan.
+> 
 
-Aug.2025 - Nov.2025
 
-### **Research Scientist Internship at IBM Research - Tokyo**
 
-**AI Automation**
+> 
+>
+> Apr.2024 - Mar.2025
+>
+> ### Research Support Staff at Waseda University
+>
+> Research project commissioned by NICT, Grant No. 05101
+>
+> - Led a research project commissioned by NICT, as a Research Support Staff at Waseda University.
+> - Conducted research on Scalable Image compression for Humans and Machines.
+> - Published 8 papers at conferences such as IEEE MMSP 2024 as a commissioned research team from Waseda University.
+> 
 
-- Conducted research and investigation on AI agents for compliance automation
-</aside>
-
-<aside>
-
-Aug.2025 - Sep.2025
-
-### R&D Internship at Sansan
-
-R&D Automation Group
-
-- Conducted R&D on business card digitization, focusing on improving the performance and automation rate of Viola, an in-house VLM developed at Sansan.
-</aside>
-
-<aside>
-
-Apr.2024 - Mar.2025
-
-### Research Support Stuff at Waseda University
-
-Research project commissioned by NICT, Grant No. 05101
-
-- Led a research project commissioned by NICT, as a Research Support Stuff at Waseda University.
-- Conducted research on Scalable Image compression for Humans and Machines.
-- Published 8 papers at conferences such as IEEE MMSP 2024 as a commissioned research team from Waseda University.
-</aside>
 
 ## 📚PUBLICATIONS
 
@@ -174,35 +223,41 @@ Research project commissioned by NICT, Grant No. 05101
 
 ---
 
-<aside>
 
-Sep.2025
+> 
+>
+> Sep.2025
+>
+> ### IEEE GCCE 2025 Oral Presentation Award
+>
+> For outstanding oral presentations based on both the quality of the presentation and the research content.
+>
+> 
 
-### IEEE GCCE 2025 Oral Presentation Award
 
-For outstanding oral presentations based on both the quality of the presentation and the research content.
 
-</aside>
+> 
+>
+> Mar.2025
+>
+> ### Department Award
+>
+> For students who have achieved excellence in research activities during their undergraduate years, **top 5%** in the department.
+>
+> 
 
-<aside>
 
-Mar.2025
 
-### Department Award
+> 
+>
+> Nov.2024
+>
+> ### IEEE GCCE 2024 Presentation Award
+>
+> Selected based on the quality of the presentations and Q&As.
+>
+> 
 
-For students who have achieved excellence in research activities during their undergraduate years, **top 5%** in the department.
-
-</aside>
-
-<aside>
-
-Nov.2024
-
-### IEEE GCCE 2024 Presentation Award
-
-Selected based on the quality of the presentations and Q&As.
-
-</aside>
 
 ## 💰RESEARCH FUNDING
 
@@ -216,9 +271,9 @@ Selected based on the quality of the presentations and Q&As.
 ---
 
 - Programming Language: Python / C / Java / JavaScript
-- Frameworks and Application Tools: Pytorch, OpenCV
+- Frameworks and Application Tools: PyTorch, OpenCV
 - Others: GitHub / Docker / Kubernetes
-- Natural Language: Japanese(Native), English, Japanese Sign Language
+- Natural Language: Japanese (Native), English, Japanese Sign Language
 
 ## 💚HOBBIES
 
@@ -226,16 +281,19 @@ Selected based on the quality of the presentations and Q&As.
 
 Traveling / Japanese Sign Language / Movies
 
-## ✉️CONTACT US
+## ✉️CONTACT
 
 ---
 
-<aside>
 
-Email: **yui.t@fuji.waseda.jp**
+> 
+>
+> Email: **yui.t@fuji.waseda.jp**
+>
+> 
 
-</aside>
 
-<aside>
 
-</aside>
+> 
+>
+> 
