@@ -181,9 +181,9 @@ hr {
 
 <nav class="side-nav">
   <a href="#profile">Profile</a>
+  <a href="#publications">Publications</a>
   <a href="#education">Education</a>
   <a href="#experience">Research Experience</a>
-  <a href="#publications">Publications</a>
   <a href="#awards">Awards</a>
   <a href="#funding">Funding</a>
   <a href="#skills">Skills</a>
