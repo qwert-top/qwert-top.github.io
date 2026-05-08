@@ -1,9 +1,13 @@
 ---
-layout: null
+layout: default
 title: Yui Tatsumi / 巽 優衣
 ---
 
 <style>
+.site-header,
+.page-header {
+  display: none !important;
+}
 body {
   max-width: 1200px;
   margin: 40px auto;

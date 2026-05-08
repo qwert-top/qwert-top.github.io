@@ -1,9 +1,13 @@
 ---
-layout: null
+layout: default
 title: Yui Tatsumi / 巽 優衣
 ---
 
 <style>
+.site-header,
+.page-header {
+  display: none !important;
+}
 body {
   max-width: 1200px;
   margin: 40px auto;
@@ -311,7 +315,9 @@ En/[Ja](index_ja.html)
 
   <div class="timeline-item">
     <div class="timeline-date">Aug. 2025 - Nov. 2025</div>
-    <div class="timeline-logo"><div class="logo-placeholder">IBM</div></div>
+    <div class="timeline-logo">
+      <img src="assets/ibm_logo.png" alt="IBM">
+    </div>
     <div class="timeline-content">
       <h3>Research Scientist Internship at IBM Research - Tokyo</h3>
       <p><strong>AI Automation</strong></p>
