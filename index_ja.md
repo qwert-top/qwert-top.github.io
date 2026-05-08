@@ -62,8 +62,8 @@ body {
 }
 
 .profile img {
-  width: 130px;
-  height: 130px;
+  width: 150px;
+  height: 150px;
   object-fit: cover;
   border-radius: 50%;
   flex-shrink: 0;
@@ -242,7 +242,7 @@ hr {
 
 <h2 id="publications" class="section-heading">📚研究業績</h2>
 
-### **査読付き学術論文**
+### 査読付き学術論文
 
 1. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection,” **IEEE Access**, 2025.
 
