@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yui Tatsumi / 巽 優衣
+title: Yui Tatsumi
 ---
 
 <style>
@@ -166,7 +166,7 @@ En/[Ja](index_ja.html)
   <img src="my_image.png" alt="Yui Tatsumi">
 
   <div class="profile-content">
-    
+    <h1>Yui Tatsumi</h1>
 
     <p>
       <a href="https://github.com/qwert-top"><strong>Github</strong></a>　/　
