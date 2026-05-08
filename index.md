@@ -223,10 +223,10 @@ hr {
 
 En/[Ja](index_ja.html)
 
+<div class="header-image">
+  <img src="assets/header.jpg" alt="Header image">
+</div>
 <div id="profile" class="profile">
-  <div class="header-image">
- 　 <img src="assets/header.jpg" alt="Header image">
-　</div>
   <img src="my_image.png" alt="Yui Tatsumi">
 
   <div class="profile-content">
