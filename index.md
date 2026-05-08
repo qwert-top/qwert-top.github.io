@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Yui Tatsumi
+title: Yui Tatsumi / 巽 優衣
 ---
 
 <style>

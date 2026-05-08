@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 巽 優衣 / Yui Tatsumi
+title: Yui Tatsumi / 巽 優衣
 ---
 
 <style>
@@ -166,7 +166,7 @@ hr {
   <img src="my_image.png" alt="巽 優衣">
 
   <div class="profile-content">
-    <h1>巽 優衣</h1>
+    <h1>巽 優衣 / Yui Tatsumi</h1>
 
     <p>
       <a href="https://github.com/qwert-top"><strong>Github</strong></a>　/　
@@ -182,7 +182,7 @@ hr {
     </p>
 
     <p>
-    　学部時の成績および研究業績が学科内の上位5%であり、卒業時には学科賞をいただきました。
+      学部時の成績および研究業績が学科内の上位5%であり、卒業時には学科賞をいただきました。
     </p>
 
     <p>
@@ -351,7 +351,7 @@ hr {
 <h2 id="awards" class="section-heading">🏆受賞</h2>
 
 1. Oral Presentation Award, IEEE GCCE 2025 (2025)
-2. Dean's award for students who have achieved excellence in research activities during their undergraduate years, **TOP 5%** in the 情報通信学科,, 早稲田大学 (2025)
+2. 情報通信学科賞, 学部在学中の研究活動において優れた成果を収め、学科内で**上位5**％に入る学生に授与 (2025)
 3. Oral Presentation Award, IEEE GCCE 2024 (2024)  
 
 <h2 id="funding" class="section-heading">💰研究費</h2>
