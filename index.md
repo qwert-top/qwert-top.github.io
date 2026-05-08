@@ -5,6 +5,9 @@ title: Yui Tatsumi
 
 <style>
 body {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
   line-height: 1.7;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
@@ -21,18 +24,12 @@ body {
 .side-nav a {
   color: #57606a;
   text-decoration: none;
-  padding: 4px 0;
+  padding: 4px 0 4px 10px;
   border-left: 2px solid transparent;
-  padding-left: 10px;
 }
 .side-nav a:hover {
   color: #0969da;
   border-left-color: #0969da;
-}
-.main-content {
-  max-width: 1200px;
-  margin: 40px auto;
-  padding: 0 20px;
 }
 .section-heading {
   scroll-margin-top: 32px;
@@ -40,9 +37,6 @@ body {
 @media (max-width: 1000px) {
   .side-nav {
     display: none;
-  }
-  .main-content {
-    margin: 32px auto;
   }
 }
 
@@ -79,18 +73,12 @@ body {
 .side-nav a {
   color: #57606a;
   text-decoration: none;
-  padding: 4px 0;
+  padding: 4px 0 4px 10px;
   border-left: 2px solid transparent;
-  padding-left: 10px;
 }
 .side-nav a:hover {
   color: #0969da;
   border-left-color: #0969da;
-}
-.main-content {
-  max-width: 1200px;
-  margin: 40px auto;
-  padding: 0 20px;
 }
 .section-heading {
   scroll-margin-top: 32px;
@@ -98,9 +86,6 @@ body {
 @media (max-width: 1000px) {
   .side-nav {
     display: none;
-  }
-  .main-content {
-    margin: 32px auto;
   }
 }
 
@@ -205,8 +190,6 @@ hr {
   <a href="#hobbies">Hobbies</a>
   <a href="#contact">Contact</a>
 </nav>
-
-<main class="main-content">
 
 En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150b701417?pvs=21)
 
@@ -473,6 +456,4 @@ Traveling / Japanese Sign Language / Movies
 
 > 
 >
->
-
-</main>
+> 
