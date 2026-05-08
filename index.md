@@ -34,12 +34,6 @@ body {
 .section-heading {
   scroll-margin-top: 32px;
 }
-@media (max-width: 1000px) {
-  .side-nav {
-    display: none;
-  }
-}
-
 .profile {
   display: flex;
   align-items: flex-start;
@@ -58,44 +52,6 @@ body {
 }
 .profile-content h1 {
   margin-top: 0;
-}
-@media (max-width: 700px) {
-  .side-nav {
-  position: fixed;
-  left: 24px;
-  top: 140px;
-  width: 150px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  font-size: 0.95rem;
-}
-.side-nav a {
-  color: #57606a;
-  text-decoration: none;
-  padding: 4px 0 4px 10px;
-  border-left: 2px solid transparent;
-}
-.side-nav a:hover {
-  color: #0969da;
-  border-left-color: #0969da;
-}
-.section-heading {
-  scroll-margin-top: 32px;
-}
-@media (max-width: 1000px) {
-  .side-nav {
-    display: none;
-  }
-}
-
-.profile {
-    flex-direction: column;
-  }
-  .profile img {
-    width: 100px;
-    height: 100px;
-  }
 }
 .timeline {
   margin: 20px 0 48px;
@@ -146,19 +102,6 @@ body {
 .timeline-content ul {
   margin-top: 8px;
 }
-@media (max-width: 750px) {
-  .timeline-item {
-    grid-template-columns: 1fr;
-    row-gap: 10px;
-  }
-  .timeline-date {
-    font-weight: 700;
-  }
-  .timeline-logo {
-    justify-content: flex-start;
-  }
-}
-
 blockquote {
   border-left: 4px solid #d0d7de;
   background: #f6f8fa;
@@ -177,6 +120,32 @@ hr {
   border-top: 1px solid #d0d7de;
   margin: 1.5em 0;
 }
+@media (max-width: 1000px) {
+  .side-nav {
+    display: none;
+  }
+}
+@media (max-width: 750px) {
+  .timeline-item {
+    grid-template-columns: 1fr;
+    row-gap: 10px;
+  }
+  .timeline-date {
+    font-weight: 700;
+  }
+  .timeline-logo {
+    justify-content: flex-start;
+  }
+}
+@media (max-width: 700px) {
+  .profile {
+    flex-direction: column;
+  }
+  .profile img {
+    width: 100px;
+    height: 100px;
+  }
+}
 </style>
 
 <nav class="side-nav">
@@ -191,7 +160,7 @@ hr {
   <a href="#contact">Contact</a>
 </nav>
 
-En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150b701417?pvs=21)
+En/[Ja](index_ja.html)
 
 <div id="profile" class="profile">
   <img src="my_image.png" alt="Yui Tatsumi">
@@ -399,4 +368,6 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 Traveling / Japanese Sign Language / Movies
 
 <h2 id="contact" class="section-heading">✉️CONTACT</h2>
+
+
 Email: **yui.t@fuji.waseda.jp**
