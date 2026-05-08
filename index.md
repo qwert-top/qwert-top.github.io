@@ -166,7 +166,7 @@ En/[Ja](index_ja.html)
   <img src="my_image.png" alt="Yui Tatsumi">
 
   <div class="profile-content">
-    <h1>Yui Tatsumi</h1>
+    <h1>Yui</h1>
 
     <p>
       <a href="https://github.com/qwert-top"><strong>Github</strong></a>　/　
