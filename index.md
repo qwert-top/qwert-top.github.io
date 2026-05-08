@@ -36,7 +36,7 @@ body {
 .side-nav a {
   color: #57606a;
   text-decoration: none;
-  padding: 4px 0 4px 10px;
+  padding: 4px 0 4px 15px;
   border-left: 2px solid transparent;
 }
 
@@ -234,7 +234,9 @@ En/[Ja](index_ja.html)
 
 <h2 id="publications" class="section-heading">📚PUBLICATIONS</h2>
 
-### **Peer-Reviewed Journal Papers**
+---
+
+### Peer-Reviewed Journal Papers
 
 1. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection,” **IEEE Access**, 2025.
 
