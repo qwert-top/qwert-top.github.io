@@ -152,14 +152,12 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
 ## 🏫EDUCATION
 
----
-
 <div class="timeline">
 
   <div class="timeline-item">
     <div class="timeline-date">Apr. 2025 - Present</div>
     <div class="timeline-logo">
-      <img src="assets/waseda_logo.svg" alt="Waseda University">
+      <img src="assets/waseda_logo.jpg" alt="Waseda University">
     </div>
     <div class="timeline-content">
       <h3>Master of Engineering</h3>
@@ -173,7 +171,7 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
   <div class="timeline-item">
     <div class="timeline-date">Apr. 2021 - Mar. 2025</div>
     <div class="timeline-logo">
-      <img src="assets/waseda_logo.svg" alt="Waseda University">
+      <img src="assets/waseda_logo.jpg" alt="Waseda University">
     </div>
     <div class="timeline-content">
       <h3>Bachelor of Engineering</h3>
@@ -213,13 +211,13 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
 ## 👔EXPERIENCE
 
----
-
 <div class="timeline">
 
   <div class="timeline-item">
     <div class="timeline-date">Apr. 2025 - Mar. 2026</div>
-    <div class="timeline-logo"><div class="logo-placeholder">WU</div></div>
+    <div class="timeline-logo">
+      <img src="assets/waseda_logo.jpg" alt="Waseda University">
+    </div>
     <div class="timeline-content">
       <h3>Research Assistant at Waseda University</h3>
       <p>Research project commissioned by NICT, Grant No. 05101</p>
@@ -262,7 +260,9 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
   <div class="timeline-item">
     <div class="timeline-date">Apr. 2024 - Mar. 2025</div>
-    <div class="timeline-logo"><div class="logo-placeholder">WU</div></div>
+    <div class="timeline-logo">
+      <img src="assets/waseda_logo.jpg" alt="Waseda University">
+    </div>
     <div class="timeline-content">
       <h3>Research Support Staff at Waseda University</h3>
       <p>Research project commissioned by NICT, Grant No. 05101</p>
