@@ -4,9 +4,8 @@ title: Yui Tatsumi / 巽 優衣
 ---
 
 <style>
-.site-header,
-.page-header {
-  display: none !important;
+.site-title, h1 {
+    display: none;
 }
 body {
   max-width: 1200px;
