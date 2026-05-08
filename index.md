@@ -36,7 +36,7 @@ body {
 .side-nav a {
   color: #57606a;
   text-decoration: none;
-  padding: 4px 0 4px 15px;
+  padding: 4px 0 4px 10px;
   border-left: 2px solid transparent;
 }
 
@@ -376,7 +376,7 @@ En/[Ja](index_ja.html)
   <div class="timeline-item">
     <div class="timeline-date">Aug. 2025 - Sep. 2025</div>
     <div class="timeline-logo">
-      <div class="logo-placeholder">S</div>
+      <img src="assets/sansan_logo.png" alt="Sansan">
     </div>
     <div class="timeline-content">
       <h3>R&amp;D Internship at Sansan</h3>

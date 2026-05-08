@@ -314,7 +314,9 @@ hr {
 
   <div class="timeline-item">
     <div class="timeline-date">2025年8月 - 2025年11月</div>
-    <div class="timeline-logo"><div class="logo-placeholder">IBM</div></div>
+    <div class="timeline-logo">
+      <img src="assets/ibm_logo.png" alt="IBM">
+    </div>
     <div class="timeline-content">
       <h3>IBM Research - Tokyo Research Scientist Internship</h3>
       <p><strong>AI Automation</strong></p>
@@ -324,7 +326,9 @@ hr {
 
   <div class="timeline-item">
     <div class="timeline-date">2025年8月 - 2025年9月</div>
-    <div class="timeline-logo"><div class="logo-placeholder">S</div></div>
+    <div class="timeline-logo">
+      <img src="assets/sansan_logo.png" alt="Sansan">
+    </div>
     <div class="timeline-content">
       <h3>Sansan R&amp;D インターンシップ</h3>
       <p>R&amp;D Automation Group</p>
