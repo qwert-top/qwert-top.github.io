@@ -381,43 +381,9 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
 <h2 id="awards" class="section-heading">🏆ACADEMIC AWARDS</h2>
 
----
-
-
-> 
->
-> Sep.2025
->
-> ### IEEE GCCE 2025 Oral Presentation Award
->
-> For outstanding oral presentations based on both the quality of the presentation and the research content.
->
-> 
-
-
-
-> 
->
-> Mar.2025
->
-> ### Department Award
->
-> For students who have achieved excellence in research activities during their undergraduate years, **top 5%** in the department.
->
-> 
-
-
-
-> 
->
-> Nov.2024
->
-> ### IEEE GCCE 2024 Presentation Award
->
-> Selected based on the quality of the presentations and Q&As.
->
-> 
-
+1. Oral Presentation Award, IEEE GCCE 2025 (2025)
+2. Dean's award for students who have achieved excellence in research activities during their undergraduate years, **TOP 5%** in the Department of Communications and Computer Engineering,, Waseda University (2025)
+3. Oral Presentation Award, IEEE GCCE 2024 (2024)  
 
 <h2 id="funding" class="section-heading">💰RESEARCH FUNDING</h2>
 
