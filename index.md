@@ -24,7 +24,7 @@ body {
 
 .side-nav {
   position: fixed;
-  left: 24px;
+  left: 35px;
   top: 140px;
   width: 150px;
   display: flex;
@@ -233,8 +233,6 @@ En/[Ja](index_ja.html)
 </div>
 
 <h2 id="publications" class="section-heading">📚PUBLICATIONS</h2>
-
----
 
 ### Peer-Reviewed Journal Papers
 
