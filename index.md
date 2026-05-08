@@ -19,7 +19,7 @@ body {
 .page-content {
   max-width: 1200px;
   margin: 40px auto;
-  padding: 0 20px 0 220px;
+  padding: 0 20px 0 150px;
 }
 
 .side-nav {
