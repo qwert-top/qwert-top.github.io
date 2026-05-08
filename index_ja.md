@@ -4,29 +4,26 @@ title: Yui Tatsumi / 巽 優衣
 ---
 
 <style>
+* {
+  box-sizing: border-box;
+}
+
 body {
-  max-width: 1200px;
-  margin: 40px auto;
-  padding: 0 20px;
+  margin: 0;
   line-height: 1.7;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+  color: #24292f;
+  background: #ffffff;
 }
-.header-image {
-  width: 100%;
-  height: 220px;
-  margin-bottom: 32px;
-  border-radius: 16px;
-  overflow: hidden;
+.page-content {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px 0 150px;
 }
-.header-image img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  display: block;
-}
+
 .side-nav {
   position: fixed;
-  left: 24px;
+  left: 35px;
   top: 140px;
   width: 150px;
   display: flex;
@@ -34,41 +31,56 @@ body {
   gap: 10px;
   font-size: 0.95rem;
 }
+
 .side-nav a {
   color: #57606a;
   text-decoration: none;
   padding: 4px 0 4px 10px;
   border-left: 2px solid transparent;
 }
+
 .side-nav a:hover {
   color: #0969da;
   border-left-color: #0969da;
 }
+
 .section-heading {
   scroll-margin-top: 32px;
+  margin-top: 72px;
+  margin-bottom: 28px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #d0d7de;
+  font-size: 1.8rem;
+  letter-spacing: 0.02em;
 }
+
 .profile {
   display: flex;
   align-items: flex-start;
   gap: 24px;
   margin: 24px 0 36px;
 }
+
 .profile img {
-  width: 120px;
-  height: 120px;
+  width: 130px;
+  height: 130px;
   object-fit: cover;
   border-radius: 50%;
   flex-shrink: 0;
 }
+
 .profile-content {
   flex: 1;
 }
+
 .profile-content h1 {
   margin-top: 0;
 }
+
 .timeline {
   margin: 20px 0 48px;
 }
+
 .timeline-item {
   display: grid;
   grid-template-columns: 180px 90px 1fr;
@@ -76,22 +88,26 @@ body {
   align-items: start;
   margin: 32px 0 48px;
 }
+
 .timeline-date {
   font-size: 1.05rem;
   color: #111;
   white-space: nowrap;
   padding-top: 6px;
 }
+
 .timeline-logo {
   display: flex;
   justify-content: center;
   padding-top: 4px;
 }
+
 .timeline-logo img {
   width: 58px;
   height: 58px;
   object-fit: contain;
 }
+
 .timeline-logo .logo-placeholder {
   width: 58px;
   height: 58px;
@@ -105,16 +121,20 @@ body {
   color: #57606a;
   font-size: 0.85rem;
 }
+
 .timeline-content h3 {
   margin: 0 0 6px;
   font-size: 1.25rem;
 }
+
 .timeline-content p {
   margin: 6px 0;
 }
+
 .timeline-content ul {
   margin-top: 8px;
 }
+
 blockquote {
   border-left: 4px solid #d0d7de;
   background: #f6f8fa;
@@ -122,38 +142,53 @@ blockquote {
   margin: 1.2em 0;
   border-radius: 8px;
 }
+
 blockquote p {
   margin: 0.4em 0;
 }
+
 h1, h2, h3 {
   line-height: 1.3;
 }
+
 hr {
   border: 0;
   border-top: 1px solid #d0d7de;
   margin: 1.5em 0;
 }
+
 @media (max-width: 1000px) {
   .side-nav {
     display: none;
   }
+
+  .page-content {
+    max-width: 100%;
+    margin: 32px auto;
+    padding: 0 20px;
+  }
 }
+
 @media (max-width: 750px) {
   .timeline-item {
     grid-template-columns: 1fr;
     row-gap: 10px;
   }
+
   .timeline-date {
     font-weight: 700;
   }
+
   .timeline-logo {
     justify-content: flex-start;
   }
 }
+
 @media (max-width: 700px) {
   .profile {
     flex-direction: column;
   }
+
   .profile img {
     width: 100px;
     height: 100px;
@@ -176,10 +211,7 @@ hr {
 [En](index.html)/Ja
 
 <div id="profile" class="profile">
-　<div class="header-image">
- 　 <img src="assets/header.jpg" alt="Header image">
-　</div>
-  <img src="my_image.png" alt="巽 優衣">
+<img src="assets/profile.png" alt="巽 優衣">
 
   <div class="profile-content">
     <h1>巽 優衣 / Yui Tatsumi</h1>
