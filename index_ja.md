@@ -11,6 +11,19 @@ body {
   line-height: 1.7;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
+.header-image {
+  width: 100%;
+  height: 220px;
+  margin-bottom: 32px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+.header-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 .side-nav {
   position: fixed;
   left: 24px;
@@ -163,6 +176,9 @@ hr {
 [En](index.html)/Ja
 
 <div id="profile" class="profile">
+　<div class="header-image">
+ 　 <img src="assets/header.jpg" alt="Header image">
+　</div>
   <img src="my_image.png" alt="巽 優衣">
 
   <div class="profile-content">
