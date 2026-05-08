@@ -158,7 +158,9 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
   <div class="timeline-item">
     <div class="timeline-date">Apr. 2025 - Present</div>
-    <div class="timeline-logo"><div class="logo-placeholder">WU</div></div>
+    <div class="timeline-logo">
+      <img src="assets/Waseda_logo.svg" alt="Waseda University">
+    </div>
     <div class="timeline-content">
       <h3>Master of Engineering</h3>
       <p><strong>Department of Computer Science and Communications Engineering, <a href="https://www.waseda.jp/top/en/">Waseda University</a></strong></p>
@@ -170,7 +172,9 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
   <div class="timeline-item">
     <div class="timeline-date">Apr. 2021 - Mar. 2025</div>
-    <div class="timeline-logo"><div class="logo-placeholder">WU</div></div>
+    <div class="timeline-logo">
+      <img src="assets/Waseda_logo.svg" alt="Waseda University">
+    </div>
     <div class="timeline-content">
       <h3>Bachelor of Engineering</h3>
       <p><strong>Department of Communications and Computer Engineering, <a href="https://www.waseda.jp/top/en/">Waseda University</a></strong></p>
@@ -187,7 +191,9 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
   <div class="timeline-item">
     <div class="timeline-date">Sep. 2018 - Mar. 2021</div>
-    <div class="timeline-logo"><div class="logo-placeholder">ICU</div></div>
+    <div class="timeline-logo">
+      <img src="assets/icu_logo.png" alt="ICU High School">
+    </div>
     <div class="timeline-content">
       <h3>International Christian University High School</h3>
       <p>GPA: 4.8/5.0</p>
