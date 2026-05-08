@@ -47,6 +47,12 @@ body {
 
 .section-heading {
   scroll-margin-top: 32px;
+  margin-top: 72px;
+  margin-bottom: 28px;
+  padding-bottom: 10px;
+  border-bottom: 3px solid #d0d7de;
+  font-size: 1.8rem;
+  letter-spacing: 0.02em;
 }
 
 .profile {
