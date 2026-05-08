@@ -15,7 +15,19 @@ body {
   color: #24292f;
   background: #ffffff;
 }
-
+.header-image {
+  width: 100%;
+  height: 220px;
+  margin-bottom: 32px;
+  border-radius: 16px;
+  overflow: hidden;
+}
+.header-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  display: block;
+}
 .page-content {
   max-width: 1200px;
   margin: 40px auto;
@@ -212,6 +224,9 @@ hr {
 En/[Ja](index_ja.html)
 
 <div id="profile" class="profile">
+  <div class="header-image">
+ 　 <img src="assets/header.jpg" alt="Header image">
+　</div>
   <img src="my_image.png" alt="Yui Tatsumi">
 
   <div class="profile-content">
