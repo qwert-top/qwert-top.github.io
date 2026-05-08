@@ -39,6 +39,68 @@ body {
     height: 100px;
   }
 }
+.timeline {
+  margin: 20px 0 48px;
+}
+.timeline-item {
+  display: grid;
+  grid-template-columns: 180px 90px 1fr;
+  column-gap: 28px;
+  align-items: start;
+  margin: 32px 0 48px;
+}
+.timeline-date {
+  font-size: 1.05rem;
+  color: #111;
+  white-space: nowrap;
+  padding-top: 6px;
+}
+.timeline-logo {
+  display: flex;
+  justify-content: center;
+  padding-top: 4px;
+}
+.timeline-logo img {
+  width: 58px;
+  height: 58px;
+  object-fit: contain;
+}
+.timeline-logo .logo-placeholder {
+  width: 58px;
+  height: 58px;
+  border-radius: 12px;
+  background: #f6f8fa;
+  border: 1px solid #d0d7de;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-weight: 700;
+  color: #57606a;
+  font-size: 0.85rem;
+}
+.timeline-content h3 {
+  margin: 0 0 6px;
+  font-size: 1.25rem;
+}
+.timeline-content p {
+  margin: 6px 0;
+}
+.timeline-content ul {
+  margin-top: 8px;
+}
+@media (max-width: 750px) {
+  .timeline-item {
+    grid-template-columns: 1fr;
+    row-gap: 10px;
+  }
+  .timeline-date {
+    font-weight: 700;
+  }
+  .timeline-logo {
+    justify-content: flex-start;
+  }
+}
+
 blockquote {
   border-left: 4px solid #d0d7de;
   background: #f6f8fa;
@@ -92,138 +154,121 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
 ---
 
+<div class="timeline">
 
-> 
->
-> Apr.2025 - Present 
->
-> **Master of Engineering,**
->
-> **Department of Computer Science and Communications Engineering, [Waseda University](https://www.waseda.jp/top/en/)**
->
-> Supervisor: Prof. [Hiroshi Watanabe](https://www.ams.giti.waseda.ac.jp/)
->
-> Topics: Image Compression for Humans/Machines
->
-> - Conducting NICT commissioned research as a Research Assistant
-> 
+  <div class="timeline-item">
+    <div class="timeline-date">Apr. 2025 - Present</div>
+    <div class="timeline-logo"><div class="logo-placeholder">WU</div></div>
+    <div class="timeline-content">
+      <h3>Master of Engineering</h3>
+      <p><strong>Department of Computer Science and Communications Engineering, <a href="https://www.waseda.jp/top/en/">Waseda University</a></strong></p>
+      <p>Supervisor: Prof. <a href="https://www.ams.giti.waseda.ac.jp/">Hiroshi Watanabe</a></p>
+      <p>Topics: Image Compression for Humans/Machines</p>
+      <ul><li>Conducting NICT commissioned research as a Research Assistant.</li></ul>
+    </div>
+  </div>
 
+  <div class="timeline-item">
+    <div class="timeline-date">Apr. 2021 - Mar. 2025</div>
+    <div class="timeline-logo"><div class="logo-placeholder">WU</div></div>
+    <div class="timeline-content">
+      <h3>Bachelor of Engineering</h3>
+      <p><strong>Department of Communications and Computer Engineering, <a href="https://www.waseda.jp/top/en/">Waseda University</a></strong></p>
+      <p>GPA: 3.6/4.0 <strong>(top 5%)</strong></p>
+      <p>Supervisor: Prof. <a href="https://www.ams.giti.waseda.ac.jp/">Hiroshi Watanabe</a></p>
+      <p>Topics: Image Compression for Humans/Machines, Sign Language Recognition</p>
+      <ul>
+        <li>Conducted NICT commissioned research as a Research Support Staff.</li>
+        <li>Relevant Coursework: Computer Programming, Multimedia Systems, Software Engineering, Computer Architecture, Information Theory, Operating System, Signal Processing, and more.</li>
+        <li>Published papers at international and domestic conferences such as <em>IEEE GCCE 2024</em> and <em>PCSJ/IMPS 2024</em>.</li>
+      </ul>
+    </div>
+  </div>
 
+  <div class="timeline-item">
+    <div class="timeline-date">Sep. 2018 - Mar. 2021</div>
+    <div class="timeline-logo"><div class="logo-placeholder">ICU</div></div>
+    <div class="timeline-content">
+      <h3>International Christian University High School</h3>
+      <p>GPA: 4.8/5.0</p>
+    </div>
+  </div>
 
-> 
->
-> Apr.2021 - Mar.2025
->
-> **Bachelor of Engineering,**
->
-> **Department of** **Communications and Computer Engineering, [Waseda University](https://www.waseda.jp/top/en/)**
->
-> GPA: 3.6/4.0 (**top 5%**) 
->
-> Supervisor: Prof. [Hiroshi Watanabe](https://www.ams.giti.waseda.ac.jp/)
->
-> Topics: Image Compression for Humans/Machines, Sign Language Recognition
->
-> - Conducted NICT commissioned research as a Research Support Staff
->
-> Relevant Coursework: Computer Programming, Multimedia Systems, Software Engineering, Computer Architecture, Information Theory, Operating System, Signal Processing and more.
->
-> - Published papers at international and domestic conferences such as *IEEE GCCE 2024* and *PCSJ/IMPS 2024*
-> 
+  <div class="timeline-item">
+    <div class="timeline-date">Oct. 2015 - Jun. 2018</div>
+    <div class="timeline-logo"><div class="logo-placeholder">HI</div></div>
+    <div class="timeline-content">
+      <h3>Public School in Hawaii, U.S.</h3>
+    </div>
+  </div>
 
-
-
-> 
->
-> Sep.2018 - Mar.2021
->
-> **International Christian University High School**
->
-> GPA: 4.8/5.0 
->
-> 
-
-
-
-> 
->
-> Oct.2015 - June 2018
->
-> Went to a public school at Hawaii, U.S.
->
-> 
+</div>
 
 
 ## 👔EXPERIENCE
 
 ---
 
+<div class="timeline">
 
-> 
->
-> Apr.2025 - Mar.2026
->
-> ### Research Assistant at Waseda University
->
-> Research project commissioned by NICT, Grant No. 05101
->
-> - Leading a research project commissioned by the National Institute of Information and Communications Technology (NICT), as a Research Assistant at Waseda University.
-> - Conducting research on Image Compression for Humans/Machines.
-> 
+  <div class="timeline-item">
+    <div class="timeline-date">Apr. 2025 - Mar. 2026</div>
+    <div class="timeline-logo"><div class="logo-placeholder">WU</div></div>
+    <div class="timeline-content">
+      <h3>Research Assistant at Waseda University</h3>
+      <p>Research project commissioned by NICT, Grant No. 05101</p>
+      <ul>
+        <li>Leading a research project commissioned by the National Institute of Information and Communications Technology (NICT), as a Research Assistant at Waseda University.</li>
+        <li>Conducting research on Image Compression for Humans/Machines.</li>
+      </ul>
+    </div>
+  </div>
 
+  <div class="timeline-item">
+    <div class="timeline-date">Jan. 2026 - Jan. 2026</div>
+    <div class="timeline-logo"><div class="logo-placeholder">H</div></div>
+    <div class="timeline-content">
+      <h3>Research Internship at Hitachi, Central Research Laboratory</h3>
+      <p>R&amp;D Group</p>
+      <ul><li>Conducted research on reliability enhancement and self-evolution technologies for AI agents.</li></ul>
+    </div>
+  </div>
 
+  <div class="timeline-item">
+    <div class="timeline-date">Aug. 2025 - Nov. 2025</div>
+    <div class="timeline-logo"><div class="logo-placeholder">IBM</div></div>
+    <div class="timeline-content">
+      <h3>Research Scientist Internship at IBM Research - Tokyo</h3>
+      <p><strong>AI Automation</strong></p>
+      <ul><li>Conducted research and investigation on AI agents for compliance automation.</li></ul>
+    </div>
+  </div>
 
-> 
->
-> Jan.2026 - Jan.2026
->
-> ### Research Internship at Hitachi, Central Research Laboratory
->
-> R&D Group
->
-> - Conducted research on reliability enhancement and self-evolution technologies for AI agents.
-> 
+  <div class="timeline-item">
+    <div class="timeline-date">Aug. 2025 - Sep. 2025</div>
+    <div class="timeline-logo"><div class="logo-placeholder">S</div></div>
+    <div class="timeline-content">
+      <h3>R&amp;D Internship at Sansan</h3>
+      <p>R&amp;D Automation Group</p>
+      <ul><li>Conducted R&amp;D on business card digitization, focusing on improving the performance and automation rate of Viola, an in-house VLM developed at Sansan.</li></ul>
+    </div>
+  </div>
 
+  <div class="timeline-item">
+    <div class="timeline-date">Apr. 2024 - Mar. 2025</div>
+    <div class="timeline-logo"><div class="logo-placeholder">WU</div></div>
+    <div class="timeline-content">
+      <h3>Research Support Staff at Waseda University</h3>
+      <p>Research project commissioned by NICT, Grant No. 05101</p>
+      <ul>
+        <li>Led a research project commissioned by NICT, as a Research Support Staff at Waseda University.</li>
+        <li>Conducted research on Scalable Image Compression for Humans and Machines.</li>
+        <li>Published 8 papers at conferences such as IEEE MMSP 2024 as a commissioned research team from Waseda University.</li>
+      </ul>
+    </div>
+  </div>
 
-
-> 
->
-> Aug.2025 - Nov.2025
->
-> ### **Research Scientist Internship at IBM Research - Tokyo**
->
-> **AI Automation**
->
-> - Conducted research and investigation on AI agents for compliance automation
-> 
-
-
-
-> 
->
-> Aug.2025 - Sep.2025
->
-> ### R&D Internship at Sansan
->
-> R&D Automation Group
->
-> - Conducted R&D on business card digitization, focusing on improving the performance and automation rate of Viola, an in-house VLM developed at Sansan.
-> 
-
-
-
-> 
->
-> Apr.2024 - Mar.2025
->
-> ### Research Support Staff at Waseda University
->
-> Research project commissioned by NICT, Grant No. 05101
->
-> - Led a research project commissioned by NICT, as a Research Support Staff at Waseda University.
-> - Conducted research on Scalable Image compression for Humans and Machines.
-> - Published 8 papers at conferences such as IEEE MMSP 2024 as a commissioned research team from Waseda University.
-> 
+</div>
 
 
 ## 📚PUBLICATIONS
