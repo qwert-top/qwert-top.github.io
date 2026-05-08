@@ -5,12 +5,47 @@ title: Yui Tatsumi
 
 <style>
 body {
-  max-width: 1200px;
-  margin: 40px auto;
-  padding: 0 20px;
   line-height: 1.7;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
 }
+.side-nav {
+  position: fixed;
+  left: 24px;
+  top: 140px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 0.95rem;
+}
+.side-nav a {
+  color: #57606a;
+  text-decoration: none;
+  padding: 4px 0;
+  border-left: 2px solid transparent;
+  padding-left: 10px;
+}
+.side-nav a:hover {
+  color: #0969da;
+  border-left-color: #0969da;
+}
+.main-content {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+.section-heading {
+  scroll-margin-top: 32px;
+}
+@media (max-width: 1000px) {
+  .side-nav {
+    display: none;
+  }
+  .main-content {
+    margin: 32px auto;
+  }
+}
+
 .profile {
   display: flex;
   align-items: flex-start;
@@ -31,7 +66,45 @@ body {
   margin-top: 0;
 }
 @media (max-width: 700px) {
-  .profile {
+  .side-nav {
+  position: fixed;
+  left: 24px;
+  top: 140px;
+  width: 150px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  font-size: 0.95rem;
+}
+.side-nav a {
+  color: #57606a;
+  text-decoration: none;
+  padding: 4px 0;
+  border-left: 2px solid transparent;
+  padding-left: 10px;
+}
+.side-nav a:hover {
+  color: #0969da;
+  border-left-color: #0969da;
+}
+.main-content {
+  max-width: 1200px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+.section-heading {
+  scroll-margin-top: 32px;
+}
+@media (max-width: 1000px) {
+  .side-nav {
+    display: none;
+  }
+  .main-content {
+    margin: 32px auto;
+  }
+}
+
+.profile {
     flex-direction: column;
   }
   .profile img {
@@ -121,9 +194,23 @@ hr {
 }
 </style>
 
+<nav class="side-nav">
+  <a href="#profile">Profile</a>
+  <a href="#education">Education</a>
+  <a href="#experience">Experience</a>
+  <a href="#publications">Publications</a>
+  <a href="#awards">Awards</a>
+  <a href="#funding">Funding</a>
+  <a href="#skills">Skills</a>
+  <a href="#hobbies">Hobbies</a>
+  <a href="#contact">Contact</a>
+</nav>
+
+<main class="main-content">
+
 En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150b701417?pvs=21)
 
-<div class="profile">
+<div id="profile" class="profile">
   <img src="my_image.png" alt="Yui Tatsumi">
 
   <div class="profile-content">
@@ -150,7 +237,7 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
   </div>
 </div>
 
-## 🏫EDUCATION
+<h2 id="education" class="section-heading">🏫EDUCATION</h2>
 
 <div class="timeline">
 
@@ -209,7 +296,7 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 </div>
 
 
-## 👔EXPERIENCE
+<h2 id="experience" class="section-heading">👔EXPERIENCE</h2>
 
 <div class="timeline">
 
@@ -277,7 +364,7 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 </div>
 
 
-## 📚PUBLICATIONS
+<h2 id="publications" class="section-heading">📚PUBLICATIONS</h2>
 
 ---
 
@@ -309,7 +396,7 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 5. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Assessing the Effectiveness of ICM Method for Privacy Protection (in Japanese),” Picture Coding Symposium of Japan (PCSJ), 2024.
 6. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),” ITE Annual Convention, 2024.
 
-## 🏆**ACADEMIC AWARDS**
+<h2 id="awards" class="section-heading">🏆ACADEMIC AWARDS</h2>
 
 ---
 
@@ -349,14 +436,14 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 > 
 
 
-## 💰RESEARCH FUNDING
+<h2 id="funding" class="section-heading">💰RESEARCH FUNDING</h2>
 
 ---
 
 - NICT (National Institute of Information and Communications Technology)
 [ Commissioned research on information and communication technology ] number 05101
 
-## ✨**SKILLS**
+<h2 id="skills" class="section-heading">✨SKILLS</h2>
 
 ---
 
@@ -365,13 +452,13 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 - Others: GitHub / Docker / Kubernetes
 - Natural Language: Japanese (Native), English, Japanese Sign Language
 
-## 💚HOBBIES
+<h2 id="hobbies" class="section-heading">💚HOBBIES</h2>
 
 ---
 
 Traveling / Japanese Sign Language / Movies
 
-## ✉️CONTACT
+<h2 id="contact" class="section-heading">✉️CONTACT</h2>
 
 ---
 
@@ -386,4 +473,6 @@ Traveling / Japanese Sign Language / Movies
 
 > 
 >
-> 
+>
+
+</main>
