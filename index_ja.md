@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: null
 title: Yui Tatsumi / 巽 優衣
 ---
 
@@ -302,7 +302,9 @@ hr {
 
   <div class="timeline-item">
     <div class="timeline-date">2026年1月</div>
-    <div class="timeline-logo"><div class="logo-placeholder">H</div></div>
+    <div class="timeline-logo">
+      <img src="assets/hitachi_logo.jpg" alt="Hitachi">
+    </div>
     <div class="timeline-content">
       <h3>日立製作所 中央研究所 研究インターンシップ</h3>
       <p>研究開発グループ</p>

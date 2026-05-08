@@ -299,7 +299,9 @@ En/[Ja](index_ja.html)
 
   <div class="timeline-item">
     <div class="timeline-date">Jan. 2026 - Jan. 2026</div>
-    <div class="timeline-logo"><div class="logo-placeholder">H</div></div>
+    <div class="timeline-logo">
+      <img src="assets/hitachi_logo.jpg" alt="Hitachi">
+    </div>
     <div class="timeline-content">
       <h3>Research Internship at Hitachi, Central Research Laboratory</h3>
       <p>R&amp;D Group</p>
