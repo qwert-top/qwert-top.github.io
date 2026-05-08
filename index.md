@@ -75,8 +75,8 @@ body {
 }
 
 .profile img {
-  width: 120px;
-  height: 120px;
+  width: 130px;
+  height: 130px;
   object-fit: cover;
   border-radius: 50%;
   flex-shrink: 0;
@@ -228,7 +228,7 @@ hr {
 En/[Ja](index_ja.html)
 
 <div id="profile" class="profile">
-  <img src="my_image.png" alt="Yui Tatsumi">
+  <img src="assets/profile.png" alt="Yui Tatsumi">
 
   <div class="profile-content">
     <h1>Yui Tatsumi</h1>
