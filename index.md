@@ -182,7 +182,7 @@ hr {
 <nav class="side-nav">
   <a href="#profile">Profile</a>
   <a href="#education">Education</a>
-  <a href="#experience">Experience</a>
+  <a href="#experience">Research Experience</a>
   <a href="#publications">Publications</a>
   <a href="#awards">Awards</a>
   <a href="#funding">Funding</a>
@@ -219,6 +219,36 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
     </p>
   </div>
 </div>
+
+<h2 id="publications" class="section-heading">📚PUBLICATIONS</h2>
+
+### **Peer-Reviewed Journal Papers**
+
+1. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection,” **IEEE Access**, 2025.
+
+### International Conference
+
+1. Ziyue Zeng, **Yui Tatsumi**, Hiroshi Watanabe, “Flow Residual Segmentation and Generative Reconstruction for Motion-Aware Video Coding,” The 9th IIEEJ International Conference on Image Electronics and Visual Computing (**IEVC**), 2026. [to appear]
+2. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines,” IEEE 44th International Conference on Consumer Electronics (**ICCE**), 2026. [to appear]
+3. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “VFI-LoRA: Leveraging Video Diffusion Models for Video Interpolation Through LoRA Finetuning,” IEEE International Conference on Internet of Things and Intelligence System (**IoTaIS**), 2025.
+4. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion,” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
+5. Ziyue Zeng, **Yui Tatsumi**, Hiroshi Watanabe, “Bidirectional Attention-Gated Motion Injection for Frame Interpolation,” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
+6. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Explicit Residual-Based Scalable Image Coding for Humans and Machines,” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
+7. Takahiro Shindo, **Yui Tatsumi**, Taiju Watanabe, Hiroshi Watanabe, “Guided Diffusion for the Extension of Machine Vision to Human Visual Perception,” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
+8. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression,” IEEE 43rd International Conference on Consumer Electronics (**ICCE**), 2025.
+9. **Yui Tatsumi**, Shoko Tanaka, Shunsuke Akamatsu, Takahiro Shindo, Hiroshi Watanabe, “Classification in Japanese Sign Language Based on Dynamic Facial Expressions,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024. 
+10. Shoko Tanaka, **Yui Tatsumi**, Takahiro Shindo, Hiroshi Watanabe, “Integrating QR Code Characteristics Into Super-Resolution Method,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024. 
+11. Takahiro Shindo, **Yui Tatsumi**, Taiju Watanabe, Hiroshi Watanabe, “Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
+12. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Scalable Image Coding for Humans and Machines Using Feature Fusion Network,” IEEE 26th International Workshop on Multimedia Signal Processing (**MMSP**), 2024.
+
+### Domestic Conference, Japan
+
+1. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines (in Japanese),” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
+2. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),” The 87th National Convention of IPSJ, 2025.
+3. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “Video Frame Interpolation Using Pretrained Diffusion Model (in Japanese),” The 87th National Convention of IPSJ, 2025.
+4. **Yui Tatsumi**, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “Scalable Image Coding for Humans and Machines Using Feature Differences (in Japanese),” Picture Coding Symposium of Japan (PCSJ), 2024.
+5. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Assessing the Effectiveness of ICM Method for Privacy Protection (in Japanese),” Picture Coding Symposium of Japan (PCSJ), 2024.
+6. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),” ITE Annual Convention, 2024.
 
 <h2 id="education" class="section-heading">🏫EDUCATION</h2>
 
@@ -279,7 +309,7 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 </div>
 
 
-<h2 id="experience" class="section-heading">👔EXPERIENCE</h2>
+<h2 id="experience" class="section-heading">👔RESEARCH EXPERIENCE</h2>
 
 <div class="timeline">
 
@@ -346,39 +376,6 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
 </div>
 
-
-<h2 id="publications" class="section-heading">📚PUBLICATIONS</h2>
-
----
-
-### **Peer-Reviewed Journal Papers**
-
-1. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection,” **IEEE Access**, 2025.
-
-### International Conference
-
-1. Ziyue Zeng, **Yui Tatsumi**, Hiroshi Watanabe, “Flow Residual Segmentation and Generative Reconstruction for Motion-Aware Video Coding,” The 9th IIEEJ International Conference on Image Electronics and Visual Computing (**IEVC**), 2026. [to appear]
-2. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines,” IEEE 44th International Conference on Consumer Electronics (**ICCE**), 2026. [to appear]
-3. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “VFI-LoRA: Leveraging Video Diffusion Models for Video Interpolation Through LoRA Finetuning,” IEEE International Conference on Internet of Things and Intelligence System (**IoTaIS**), 2025.
-4. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion,” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
-5. Ziyue Zeng, **Yui Tatsumi**, Hiroshi Watanabe, “Bidirectional Attention-Gated Motion Injection for Frame Interpolation,” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
-6. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Explicit Residual-Based Scalable Image Coding for Humans and Machines,” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
-7. Takahiro Shindo, **Yui Tatsumi**, Taiju Watanabe, Hiroshi Watanabe, “Guided Diffusion for the Extension of Machine Vision to Human Visual Perception,” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
-8. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression,” IEEE 43rd International Conference on Consumer Electronics (**ICCE**), 2025.
-9. **Yui Tatsumi**, Shoko Tanaka, Shunsuke Akamatsu, Takahiro Shindo, Hiroshi Watanabe, “Classification in Japanese Sign Language Based on Dynamic Facial Expressions,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024. 
-10. Shoko Tanaka, **Yui Tatsumi**, Takahiro Shindo, Hiroshi Watanabe, “Integrating QR Code Characteristics Into Super-Resolution Method,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024. 
-11. Takahiro Shindo, **Yui Tatsumi**, Taiju Watanabe, Hiroshi Watanabe, “Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
-12. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Scalable Image Coding for Humans and Machines Using Feature Fusion Network,” IEEE 26th International Workshop on Multimedia Signal Processing (**MMSP**), 2024.
-
-### Domestic Conference, Japan
-
-1. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines (in Japanese),” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
-2. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),” The 87th National Convention of IPSJ, 2025.
-3. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “Video Frame Interpolation Using Pretrained Diffusion Model (in Japanese),” The 87th National Convention of IPSJ, 2025.
-4. **Yui Tatsumi**, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “Scalable Image Coding for Humans and Machines Using Feature Differences (in Japanese),” Picture Coding Symposium of Japan (PCSJ), 2024.
-5. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Assessing the Effectiveness of ICM Method for Privacy Protection (in Japanese),” Picture Coding Symposium of Japan (PCSJ), 2024.
-6. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),” ITE Annual Convention, 2024.
-
 <h2 id="awards" class="section-heading">🏆ACADEMIC AWARDS</h2>
 
 1. Oral Presentation Award, IEEE GCCE 2025 (2025)
@@ -387,14 +384,10 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
 <h2 id="funding" class="section-heading">💰RESEARCH FUNDING</h2>
 
----
-
 - NICT (National Institute of Information and Communications Technology)
 [ Commissioned research on information and communication technology ] number 05101
 
 <h2 id="skills" class="section-heading">✨SKILLS</h2>
-
----
 
 - Programming Language: Python / C / Java / JavaScript
 - Frameworks and Application Tools: PyTorch, OpenCV
@@ -403,13 +396,9 @@ En/[Ja](https://www.notion.so/Yui-Tatsumi-s-Website-Ja-2a5b691b270d809dac17d4150
 
 <h2 id="hobbies" class="section-heading">💚HOBBIES</h2>
 
----
-
 Traveling / Japanese Sign Language / Movies
 
 <h2 id="contact" class="section-heading">✉️CONTACT</h2>
-
----
 
 
 > 
