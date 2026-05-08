@@ -221,11 +221,12 @@ hr {
   <a href="#contact">Contact</a>
 </nav>
 
-En/[Ja](index_ja.html)
-
 <div class="header-image">
   <img src="assets/header.png" alt="Header image">
 </div>
+
+En/[Ja](index_ja.html)
+
 <div id="profile" class="profile">
   <img src="my_image.png" alt="Yui Tatsumi">
 
