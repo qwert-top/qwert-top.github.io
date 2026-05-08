@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: default
 title: Yui Tatsumi / 巽 優衣
 ---
 
