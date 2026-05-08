@@ -224,7 +224,7 @@ hr {
 En/[Ja](index_ja.html)
 
 <div class="header-image">
-  <img src="assets/header.jpg" alt="Header image">
+  <img src="assets/header.png" alt="Header image">
 </div>
 <div id="profile" class="profile">
   <img src="my_image.png" alt="Yui Tatsumi">
