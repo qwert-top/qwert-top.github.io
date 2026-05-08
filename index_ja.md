@@ -198,7 +198,7 @@ hr {
 
 <nav class="side-nav">
   <a href="#profile">プロフィール</a>
-  <a href="#publications">業績</a>
+  <a href="#publications">研究業績</a>
   <a href="#education">学歴</a>
   <a href="#experience">研究経験</a>
   <a href="#awards">受賞</a>
