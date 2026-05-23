@@ -242,6 +242,10 @@ hr {
 
 <h2 id="publications" class="section-heading">📚研究業績</h2>
 
+## プレプリント
+
+1. Ziyue Zeng, Xun Su, Haoyuan Liu, Bingyu Lu, **Yui Tatsumi**, Hiroshi Watanabe, “GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow,” 2026.
+
 ### 査読付き学術論文
 
 1. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection,” **IEEE Access**, 2025.
