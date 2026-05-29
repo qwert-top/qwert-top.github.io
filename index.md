@@ -226,13 +226,12 @@ En/[Ja](index_ja.html)
 
     <p>
       My research interests include Artificial Intelligence, Computer Vision, and Signal Processing.
-      I am working as a Research Assistant under Prof. Hiroshi Watanabe, primarily focusing on
+      Under the supervision of Professor Hiroshi Watanabe, my reseach primarily focuses on
       Neural Network-based Image Compression for Humans and Machines.
     </p>
 
     <p>
-      I expect to complete my master course in Spring 2027 and am currently exploring industry
-      research opportunities. Please feel free to reach out if you see a potential fit.
+      I expect to complete my master course in Spring 2027 and am currently exploring industry research opportunities. Please feel free to reach out if you see a potential fit.
     </p>
   </div>
 </div>

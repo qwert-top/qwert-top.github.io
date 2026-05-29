@@ -289,12 +289,12 @@ hr {
 
 ### 国内会議
 
-1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines （日本語）,**” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
-2. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision （日本語）,**” The 87th National Convention of IPSJ, 2025.
-3. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Video Frame Interpolation Using Pretrained Diffusion Model （日本語）,**” The 87th National Convention of IPSJ, 2025.
-4. <u>Yui Tatsumi</u>, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “**Scalable Image Coding for Humans and Machines Using Feature Differences （日本語）,**” Picture Coding Symposium of Japan (PCSJ), 2024.
-5. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Assessing the Effectiveness of ICM Method for Privacy Protection （日本語）,**” Picture Coding Symposium of Japan (PCSJ), 2024.
-6. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “**Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision （日本語）,**” ITE Annual Convention, 2024.
+1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証,**” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
+2. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**機械のための復号画像における顔認証精度の評価,**” The 87th National Convention of IPSJ, 2025.
+3. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**事前学習済みの拡散モデルを使用したフレーム補間,**” The 87th National Convention of IPSJ, 2025.
+4. <u>Yui Tatsumi</u>, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “**特徴量差分を用いた視聴と画像認識のための階層画像符号化,**” Picture Coding Symposium of Japan (PCSJ), 2024.
+5. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**ICM手法のプライバシー保護における有効性の検証,**” Picture Coding Symposium of Japan (PCSJ), 2024.
+6. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “**Cross-Frame Attention を用いた映像補間モデルの一検討,**” ITE Annual Convention, 2024.
 
 <h2 id="education" class="section-heading">🏫学歴</h2>
 
