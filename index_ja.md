@@ -244,56 +244,56 @@ hr {
 
 ## プレプリント
 
-1. Ziyue Zeng, Xun Su, Haoyuan Liu, Bingyu Lu, **Yui Tatsumi**, Hiroshi Watanabe, “GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow,” 2026.
+1. Ziyue Zeng, Xun Su, Haoyuan Liu, Bingyu Lu, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow,” 2026.
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26571)
 
 ## 査読付き学術論文
 
-1. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection,” **IEEE Access**, 2025.
+1. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection,” **IEEE Access**, 2025.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/abstract/document/11029205)
 
 ## 国際会議
 
-1. Ziyue Zeng, **Yui Tatsumi**, Hiroshi Watanabe, “Flow Residual Segmentation and Generative Reconstruction for Motion-Aware Video Coding,” The 9th IIEEJ International Conference on Image Electronics and Visual Computing (**IEVC**), 2026. [to appear]
-2. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines,” IEEE 44th International Conference on Consumer Electronics (**ICCE**), 2026.
+1. Ziyue Zeng, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “Flow Residual Segmentation and Generative Reconstruction for Motion-Aware Video Coding,” The 9th IIEEJ International Conference on Image Electronics and Visual Computing (**IEVC**), 2026. [to appear]
+2. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines,” IEEE 44th International Conference on Consumer Electronics (**ICCE**), 2026.
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.05836)
   [![Generic badge](https://img.shields.io/badge/Code-grey)](https://github.com/qwert-top/AQVR-ICM)
-3. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “VFI-LoRA: Leveraging Video Diffusion Models for Video Interpolation Through LoRA Finetuning,” IEEE International Conference on Internet of Things and Intelligence System (**IoTaIS**), 2025.
+3. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “VFI-LoRA: Leveraging Video Diffusion Models for Video Interpolation Through LoRA Finetuning,” IEEE International Conference on Internet of Things and Intelligence System (**IoTaIS**), 2025.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11282119)
-4. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion,” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
+4. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion,” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
  [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11274920)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05363)
-5. Ziyue Zeng, **Yui Tatsumi**, Hiroshi Watanabe, “Bidirectional Attention-Gated Motion Injection for Frame Interpolation,” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
+5. Ziyue Zeng, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “Bidirectional Attention-Gated Motion Injection for Frame Interpolation,” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11275014)
-6. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Explicit Residual-Based Scalable Image Coding for Humans and Machines,” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
+6. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “Explicit Residual-Based Scalable Image Coding for Humans and Machines,” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11324339)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.19297)
-7. Takahiro Shindo, **Yui Tatsumi**, Taiju Watanabe, Hiroshi Watanabe, “Guided Diffusion for the Extension of Machine Vision to Human Visual Perception,” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
+7. Takahiro Shindo, <u>Yui Tatsumi</u>, Taiju Watanabe, Hiroshi Watanabe, “Guided Diffusion for the Extension of Machine Vision to Human Visual Perception,” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11324163)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
-8. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression,” IEEE 43rd International Conference on Consumer Electronics (**ICCE**), 2025.
+8. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression,” IEEE 43rd International Conference on Consumer Electronics (**ICCE**), 2025.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10929842)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07669)
-9. **Yui Tatsumi**, Shoko Tanaka, Shunsuke Akamatsu, Takahiro Shindo, Hiroshi Watanabe, “Classification in Japanese Sign Language Based on Dynamic Facial Expressions,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
+9. <u>Yui Tatsumi</u>, Shoko Tanaka, Shunsuke Akamatsu, Takahiro Shindo, Hiroshi Watanabe, “Classification in Japanese Sign Language Based on Dynamic Facial Expressions,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760997)
 [![Generic badge](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06347)
-10. Shoko Tanaka, **Yui Tatsumi**, Takahiro Shindo, Hiroshi Watanabe, “Integrating QR Code Characteristics Into Super-Resolution Method,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
+10. Shoko Tanaka, <u>Yui Tatsumi</u>, Takahiro Shindo, Hiroshi Watanabe, “Integrating QR Code Characteristics Into Super-Resolution Method,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760486)
-11. Takahiro Shindo, **Yui Tatsumi**, Taiju Watanabe, Hiroshi Watanabe, “Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
+11. Takahiro Shindo, <u>Yui Tatsumi</u>, Taiju Watanabe, Hiroshi Watanabe, “Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing,” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760327)
   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11894)
-12. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Scalable Image Coding for Humans and Machines Using Feature Fusion Network,” IEEE 26th International Workshop on Multimedia Signal Processing (**MMSP**), 2024.
+12. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “Scalable Image Coding for Humans and Machines Using Feature Fusion Network,” IEEE 26th International Workshop on Multimedia Signal Processing (**MMSP**), 2024.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10743782)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09152)
  [![Generic badge](https://img.shields.io/badge/Code-grey)](https://github.com/final-0/ICM-v1)
 
 ### 国内会議
 
-1. **Yui Tatsumi**, Ziyue Zeng, Hiroshi Watanabe, “Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines （日本語）,” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
-2. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision （日本語）,” The 87th National Convention of IPSJ, 2025.
-3. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “Video Frame Interpolation Using Pretrained Diffusion Model （日本語）,” The 87th National Convention of IPSJ, 2025.
-4. **Yui Tatsumi**, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “Scalable Image Coding for Humans and Machines Using Feature Differences （日本語）,” Picture Coding Symposium of Japan (PCSJ), 2024.
-5. Takahiro Shindo, Taiju Watanabe, **Yui Tatsumi**, Hiroshi Watanabe, “Assessing the Effectiveness of ICM Method for Privacy Protection （日本語）,” Picture Coding Symposium of Japan (PCSJ), 2024.
+1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines （日本語）,” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
+2. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision （日本語）,” The 87th National Convention of IPSJ, 2025.
+3. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “Video Frame Interpolation Using Pretrained Diffusion Model （日本語）,” The 87th National Convention of IPSJ, 2025.
+4. <u>Yui Tatsumi</u>, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “Scalable Image Coding for Humans and Machines Using Feature Differences （日本語）,” Picture Coding Symposium of Japan (PCSJ), 2024.
+5. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “Assessing the Effectiveness of ICM Method for Privacy Protection （日本語）,” Picture Coding Symposium of Japan (PCSJ), 2024.
 6. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision （日本語）,” ITE Annual Convention, 2024.
 
 <h2 id="education" class="section-heading">🏫学歴</h2>
@@ -365,11 +365,12 @@ hr {
       <img src="assets/waseda_logo.jpg" alt="早稲田大学">
     </div>
     <div class="timeline-content">
-      <h3>Research Assistant at 早稲田大学</h3>
+      <h3>リサーチアシスタント＠早稲田大学</h3>
       <p>NICT委託研究 課題番号 05101</p>
       <ul>
-        <li>Leading a research project commissioned by the National Institute of Information and Communications Technology (NICT), as a Research Assistant at 早稲田大学.</li>
-        <li>人間と機械のための画像圧縮に関する研究に従事。</li>
+        <li>早稲田大学のリサーチアシスタントとして、国立研究開発法人情報通信研究機構（NICT）から委託された研究プロジェクトを主導</li>
+        <li>人間と機械のための画像圧縮に関する研究に従事</li>
+        <li>早稲田大学の委託研究チームから、IEEE MMSP 2024やIEEE Accessを含む国内外の学会・論文誌で計9本の論文を発表。</li>
       </ul>
     </div>
   </div>
@@ -382,7 +383,7 @@ hr {
     <div class="timeline-content">
       <h3>日立製作所 中央研究所 研究インターンシップ</h3>
       <p>研究開発グループ</p>
-      <ul><li>AIエージェントの信頼性向上および自己進化技術に関する研究に従事。</li></ul>
+      <ul><li>AIエージェントの信頼性向上および自己進化技術に関する研究に従事</li></ul>
     </div>
   </div>
 
@@ -394,7 +395,7 @@ hr {
     <div class="timeline-content">
       <h3>IBM Research - Tokyo Research Scientist Internship</h3>
       <p><strong>AI Automation</strong></p>
-      <ul><li>コンプライアンス自動化に向けたAIエージェントに関する研究・調査に従事。</li></ul>
+      <ul><li>コンプライアンス自動化のためのAIエージェントに関する研究・調査に従事</li></ul>
     </div>
   </div>
 
@@ -406,7 +407,7 @@ hr {
     <div class="timeline-content">
       <h3>Sansan R&amp;D インターンシップ</h3>
       <p>R&amp;D Automation Group</p>
-      <ul><li>Sansan社内VLMであるViolaの性能および自動化率向上を目的として、名刺デジタル化に関する研究開発に従事。</li></ul>
+      <ul><li>内製VLMであるViolaの性能および自動化率向上を目的として、名刺デジタル化に関する研究開発に従事</li></ul>
     </div>
   </div>
 
@@ -416,12 +417,12 @@ hr {
       <img src="assets/waseda_logo.jpg" alt="早稲田大学">
     </div>
     <div class="timeline-content">
-      <h3>Research Support Staff at 早稲田大学</h3>
+      <h3>研究補助者＠早稲田大学</h3>
       <p>NICT委託研究 課題番号 05101</p>
       <ul>
-        <li>Led a research project commissioned by NICT, as a Research Support Staff at 早稲田大学.</li>
-        <li>人間と機械のためのスケーラブル画像圧縮に関する研究に従事。</li>
-        <li>Published 8 papers at conferences such as IEEE MMSP 2024 as a commissioned research team from 早稲田大学.</li>
+        <li>早稲田大学の研究補助者として、国立研究開発法人情報通信研究機構（NICT）から委託された研究プロジェクトを主導</li>
+        <li>人間と機械のためのスケーラブル画像圧縮に関する研究に従事</li>
+        <li>早稲田大学の委託研究チームから、IEEE MMSP 2024を含む国内外の学会で計8本の論文を発表</li>
       </ul>
     </div>
   </div>
