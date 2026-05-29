@@ -239,7 +239,7 @@ En/[Ja](index_ja.html)
 
 <h2 id="publications" class="section-heading">📚PUBLICATIONS</h2>
 
-## Preprints
+### Preprints
 
 1. Ziyue Zeng, Xun Su, Haoyuan Liu, Bingyu Lu, **Yui Tatsumi**, Hiroshi Watanabe, “GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow,” 2026.
 
