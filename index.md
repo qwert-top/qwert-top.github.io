@@ -283,7 +283,7 @@ En/[Ja](index_ja.html)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09152)
  [![Generic badge](https://img.shields.io/badge/Code-grey)](https://github.com/final-0/ICM-v1)
 
-### Domestic Conference, Japan
+## Domestic Conference, Japan
 
 1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines (in Japanese),**” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
 2. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),**” The 87th National Convention of IPSJ, 2025.
@@ -354,7 +354,7 @@ En/[Ja](index_ja.html)
 
 </div>
 
-<h2 id="experience" class="section-heading">👔RESEARCH EXPERIENCE</h2>
+<h2 id="experience" class="section-heading">👔EXPERIENCE</h2>
 
 <div class="timeline">
 
@@ -380,7 +380,7 @@ En/[Ja](index_ja.html)
       <img src="assets/hitachi_logo.jpg" alt="Hitachi">
     </div>
     <div class="timeline-content">
-      <h3>Research Internship at Hitachi, Central Research Laboratory</h3>
+      <h3>Research Intern at Hitachi, Central Research Laboratory</h3>
       <p>R&amp;D Group</p>
       <ul>
         <li>Conducted research on reliability enhancement and self-evolution technologies for AI agents.</li>
@@ -394,7 +394,7 @@ En/[Ja](index_ja.html)
       <img src="assets/ibm_logo.png" alt="IBM">
     </div>
     <div class="timeline-content">
-      <h3>Research Scientist Internship at IBM Research - Tokyo</h3>
+      <h3>Research Intern at IBM Research - Tokyo</h3>
       <p><strong>AI Automation</strong></p>
       <ul>
         <li>Conducted research and investigation on AI agents for compliance automation.</li>
@@ -408,7 +408,7 @@ En/[Ja](index_ja.html)
       <img src="assets/sansan_logo.png" alt="Sansan">
     </div>
     <div class="timeline-content">
-      <h3>R&amp;D Internship at Sansan</h3>
+      <h3>Research Intern at Sansan</h3>
       <p>R&amp;D Automation Group</p>
       <ul>
         <li>Conducted R&amp;D on business card digitization, focusing on improving the performance and automation rate of Viola, an in-house VLM developed at Sansan.</li>
@@ -442,8 +442,8 @@ En/[Ja](index_ja.html)
 
 <h2 id="funding" class="section-heading">💰RESEARCH FUNDING</h2>
 
-- NICT (National Institute of Information and Communications Technology)
-[ Commissioned research on information and communication technology ] number 05101
+- NICT (National Institute of Information and Communications Technology) - No.05101 "R&D on ultra-coverage Beyond 5G wireless communication and video coding standardization technologies through international collaboration (Japan-US-Australia)"
+
 
 <h2 id="skills" class="section-heading">✨SKILLS</h2>
 

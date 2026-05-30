@@ -287,7 +287,7 @@ hr {
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09152)
  [![Generic badge](https://img.shields.io/badge/Code-grey)](https://github.com/final-0/ICM-v1)
 
-### 国内会議
+## 国内会議
 
 1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証,**” 第28回画像の認識・理解シンポジウム (MIRU), 2025.
 2. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**機械のための復号画像における顔認証精度の評価,**” 情報処理学会全国大会, 2025.
@@ -365,7 +365,7 @@ hr {
       <img src="assets/waseda_logo.jpg" alt="早稲田大学">
     </div>
     <div class="timeline-content">
-      <h3>リサーチアシスタント＠早稲田大学</h3>
+      <h3>早稲田大学 リサーチアシスタント</h3>
       <p>NICT委託研究 課題番号 05101</p>
       <ul>
         <li>早稲田大学のリサーチアシスタントとして、国立研究開発法人情報通信研究機構（NICT）から委託された研究プロジェクトを主導</li>
@@ -381,7 +381,7 @@ hr {
       <img src="assets/hitachi_logo.jpg" alt="Hitachi">
     </div>
     <div class="timeline-content">
-      <h3>日立製作所 中央研究所 研究インターンシップ</h3>
+      <h3>日立製作所 中央研究所 研究インターン</h3>
       <p>研究開発グループ</p>
       <ul><li>AIエージェントの信頼性向上および自己進化技術に関する研究に従事</li></ul>
     </div>
@@ -393,7 +393,7 @@ hr {
       <img src="assets/ibm_logo.png" alt="IBM">
     </div>
     <div class="timeline-content">
-      <h3>IBM Research - Tokyo Research Scientist Internship</h3>
+      <h3>IBM Research - Tokyo 研究インターン</h3>
       <p><strong>AI Automation</strong></p>
       <ul><li>コンプライアンス自動化のためのAIエージェントに関する研究・調査に従事</li></ul>
     </div>
@@ -405,7 +405,7 @@ hr {
       <img src="assets/sansan_logo.png" alt="Sansan">
     </div>
     <div class="timeline-content">
-      <h3>Sansan R&amp;D インターンシップ</h3>
+      <h3>Sansan株式会社 研究インターン</h3>
       <p>R&amp;D Automation Group</p>
       <ul><li>内製VLMであるViolaの性能および自動化率向上を目的として、名刺デジタル化に関する研究開発に従事</li></ul>
     </div>
@@ -417,7 +417,7 @@ hr {
       <img src="assets/waseda_logo.jpg" alt="早稲田大学">
     </div>
     <div class="timeline-content">
-      <h3>研究補助者＠早稲田大学</h3>
+      <h3>早稲田大学 研究補助者</h3>
       <p>NICT委託研究 課題番号 05101</p>
       <ul>
         <li>早稲田大学の研究補助者として、国立研究開発法人情報通信研究機構（NICT）から委託された研究プロジェクトを主導</li>
@@ -435,10 +435,9 @@ hr {
 2. 情報通信学科賞, 学部在学中の研究活動において優れた成果を収め、学科内で**上位5**％に入る学生に授与 (2025)
 3. Oral Presentation Award, IEEE GCCE 2024 (2024)  
 
-<h2 id="funding" class="section-heading">💰研究費</h2>
+<h2 id="funding" class="section-heading">💰研究助成</h2>
 
-- NICT（国立研究開発法人 情報通信研究機構）
-「情報通信技術に関する委託研究」課題番号 05101
+- NICT（国立研究開発法人情報通信研究機構）- 採択番号05101「日米豪国際連携を通じた超カバレッジBeyond 5G無線通信・映像符号化標準化技術の研究開発」
 
 <h2 id="skills" class="section-heading">✨スキル</h2>
 
