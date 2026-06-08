@@ -246,6 +246,8 @@ hr {
 
 1. Ziyue Zeng, Xun Su, Haoyuan Liu, Bingyu Lu, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow,**” 2026.
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26571)
+2. <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Training-Free Continuous Bitrate Control for Scalable Image Coding for Humans and Machines,**” 2026.
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.00158)
 
 ## 査読付き学術論文
 
