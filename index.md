@@ -252,7 +252,8 @@ En/[Ja](index_ja.html)
 
 ## International Conference
 
-1. Ziyue Zeng, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Flow Residual Segmentation and Generative Reconstruction for Motion-Aware Video Coding,**” The 9th IIEEJ International Conference on Image Electronics and Visual Computing (**IEVC**), 2026. [to appear]
+1. Ziyue Zeng, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Flow Residual Segmentation and Generative Reconstruction for Motion-Aware Video Coding,**” The 9th IIEEJ International Conference on Image Electronics and Visual Computing (**IEVC**), 2026.
+[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11508206)
 2. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines,**” IEEE 44th International Conference on Consumer Electronics (**ICCE**), 2026.
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.05836)
   [![Generic badge](https://img.shields.io/badge/Code-grey)](https://github.com/qwert-top/AQVR-ICM)
