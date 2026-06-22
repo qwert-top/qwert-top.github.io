@@ -310,7 +310,8 @@ En/[Ja](index_ja.html)
       <p>Supervisor: Prof. <a href="https://www.ams.giti.waseda.ac.jp/">Hiroshi Watanabe</a></p>
       <p>Topics: Image Compression for Humans/Machines</p>
       <ul>
-        <li>Conducting NICT commissioned research as a Research Assistant.</li>
+        <li>Conducted NICT commissioned research as a Research Assistant.</li>
+        <li>Relevant Coursework: Advanced Image Information, Natural Language Processing, Information Security, and more. </li>
       </ul>
     </div>
   </div>
@@ -398,7 +399,7 @@ En/[Ja](index_ja.html)
     </div>
     <div class="timeline-content">
       <h3>Research Intern at IBM Research - Tokyo</h3>
-      <p><strong>AI Automation</strong></p>
+      <p>AI Automation</p>
       <ul>
         <li>Conducted research and investigation on AI agents for compliance automation.</li>
       </ul>

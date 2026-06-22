@@ -313,7 +313,10 @@ hr {
       <p><strong><a href="https://www.waseda.jp/top/">早稲田大学</a> 基幹理工学研究科 情報理工・情報通信専攻</strong></p>
       <p>指導教員：<a href="https://www.ams.giti.waseda.ac.jp/">渡辺 裕 教授</a></p>
       <p>研究テーマ：人間と機械のための画像圧縮</p>
-      <ul><li>リサーチアシスタントとしてNICT委託研究に従事</li></ul>
+      <ul>
+      <li>リサーチアシスタントとしてNICT委託研究に従事</li>
+      <li>主な履修科目：画像情報特論、自然言語処理、情報セキュリティなど</li>
+      </ul>
     </div>
   </div>
 
@@ -397,7 +400,7 @@ hr {
     </div>
     <div class="timeline-content">
       <h3>IBM Research - Tokyo 研究インターン</h3>
-      <p><strong>AI Automation</strong></p>
+      <p>AI Automation</p>
       <ul><li>コンプライアンス自動化のためのAIエージェントに関する研究・調査に従事</li></ul>
     </div>
   </div>
