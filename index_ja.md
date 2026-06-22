@@ -428,7 +428,7 @@ hr {
       <p>NICT委託研究 課題番号 05101</p>
       <ul>
         <li>早稲田大学の研究補助者として、国立研究開発法人情報通信研究機構（NICT）から委託された研究プロジェクトを主導</li>
-        <li>人間と機械のためのスケーラブル画像圧縮に関する研究に従事</li>
+        <li>視聴と認識のための階層型画像圧縮に関する研究に従事</li>
         <li>早稲田大学の委託研究チームから、IEEE MMSP 2024を含む国内外の学会で計8本の論文を発表</li>
       </ul>
     </div>
@@ -438,9 +438,9 @@ hr {
 
 <h2 id="awards" class="section-heading">🏆受賞</h2>
 
-1. Oral Presentation Award, IEEE GCCE 2025 (2025)
+1. <a href="https://www.ieee-gcce.org/2025/awards.html">Oral Presentation Award</a>, IEEE GCCE 2025 (2025)
 2. 情報通信学科賞, 学部在学中の研究活動において優れた成果を収め、学科内で**上位5**％に入る学生に授与 (2025)
-3. Oral Presentation Award, IEEE GCCE 2024 (2024)  
+3. <a href="https://www.ieee-gcce.org/2024/presentationawards.html">Oral Presentation Award</a>, IEEE GCCE 2024 (2024)  
 
 <h2 id="funding" class="section-heading">💰研究助成</h2>
 
