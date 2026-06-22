@@ -292,12 +292,13 @@ hr {
 
 ## 国内会議
 
-1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証,**” 第28回画像の認識・理解シンポジウム (MIRU), 2025.
-2. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**機械のための復号画像における顔認証精度の評価,**” 情報処理学会全国大会, 2025.
-3. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**事前学習済みの拡散モデルを使用したフレーム補間,**” 情報処理学会全国大会, 2025.
-4. <u>Yui Tatsumi</u>, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “**特徴量差分を用いた視聴と画像認識のための階層画像符号化,**” 画像符号化シンポジウム (PCSJ), 2024.
-5. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**ICM手法のプライバシー保護における有効性の検証,**” 画像符号化シンポジウム (PCSJ), 2024.
-6. Taiju Watanabe, Takahiro Shindo, **Yui Tatsumi**, Hiroshi Watanabe, “**Cross-Frame Attention を用いた映像補間モデルの一検討,**” 映像情報メディア学会年次大会, 2024.
+1. <u>巽優衣</u>, Ziyue Zeng, 渡辺裕, “**キーフレーム補間を用いた視聴と認識のための階層型可変レート動画圧縮,**” 第29回画像の認識・理解シンポジウム (MIRU), 2026.
+2. <u>巽優衣</u>, Ziyue Zeng, 渡辺裕, “**視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証,**” 第28回画像の認識・理解シンポジウム (MIRU), 2025.
+3. 進藤嵩紘, 渡部泰樹, <u>巽優衣</u>, 渡辺裕, “**機械のための復号画像における顔認証精度の評価,**” 情報処理学会全国大会, 2025.
+4. 渡部泰樹, 進藤嵩紘, <u>巽優衣</u>, 渡辺裕, “**事前学習済みの拡散モデルを使用したフレーム補間,**” 情報処理学会全国大会, 2025.
+5. <u>巽優衣</u>, 進藤嵩紘, 渡部泰樹, 渡辺裕, “**特徴量差分を用いた視聴と画像認識のための階層画像符号化,**” 画像符号化シンポジウム (PCSJ), 2024.
+6. 進藤嵩紘, 渡部泰樹, <u>巽優衣</u>, 渡辺裕, “**ICM手法のプライバシー保護における有効性の検証,**” 画像符号化シンポジウム (PCSJ), 2024.
+7. 渡部泰樹, 進藤嵩紘, <u>巽優衣</u>, 渡辺裕, “**Cross-Frame Attention を用いた映像補間モデルの一検討,**” 映像情報メディア学会年次大会, 2024.
 
 <h2 id="education" class="section-heading">🏫学歴</h2>
 
