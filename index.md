@@ -231,7 +231,11 @@ En/[Ja](index_ja.html)
     </p>
 
     <p>
-      I expect to complete my master course in Spring 2027 and am currently exploring industry research opportunities. Please feel free to reach out if you see a potential fit.
+      Upon graduating from my undergraduate program, I received a departmental award for ranking in the top 5% of my department based on academic performance and research achievements.
+    </p>
+
+    <p>
+      After completing my master’s program in Spring 2027, I plan to pursue a research position in industry.
     </p>
   </div>
 </div>
