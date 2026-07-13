@@ -200,7 +200,7 @@ hr {
   <a href="#profile">Profile</a>
   <a href="#publications">Publications</a>
   <a href="#education">Education</a>
-  <a href="#experience">Research Experience</a>
+  <a href="#experience">Experience</a>
   <a href="#awards">Awards</a>
   <a href="#funding">Funding</a>
   <a href="#skills">Skills</a>

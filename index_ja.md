@@ -200,7 +200,7 @@ hr {
   <a href="#profile">プロフィール</a>
   <a href="#publications">研究業績</a>
   <a href="#education">学歴</a>
-  <a href="#experience">研究経験</a>
+  <a href="#experience">職歴</a>
   <a href="#awards">受賞</a>
   <a href="#funding">研究費</a>
   <a href="#skills">スキル</a>
@@ -361,7 +361,7 @@ hr {
 </div>
 
 
-<h2 id="experience" class="section-heading">👔研究経験</h2>
+<h2 id="experience" class="section-heading">👔職歴</h2>
 
 <div class="timeline">
 
@@ -375,7 +375,7 @@ hr {
       <h3>早稲田大学 ラーニングアシスタント</h3>
       <p>グローバルエデュケーションセンター情報対面指導室</p>
       <ul>
-        <li>プログラミング（Python、Java、C/C++）および情報科学の授業において、学生からの質問への対応、課題へのフィードバック、プログラミングの基礎概念の理解支援に従事。</li>
+        <li>プログラミング（Python、Java、C/C++）および情報科学の授業において、学生からの質問への対応、課題へのフィードバック、プログラミングの基礎概念の理解支援に従事</li>
       </ul>
     </div>
   </div>
