@@ -365,6 +365,21 @@ hr {
 
 <div class="timeline">
 
+
+  <div class="timeline-item">
+    <div class="timeline-date">2026年4月 - 現在</div>
+    <div class="timeline-logo">
+      <img src="assets/waseda_logo.jpg" alt="早稲田大学">
+    </div>
+    <div class="timeline-content">
+      <h3>早稲田大学 ラーニングアシスタント</h3>
+      <p>グローバルエデュケーションセンター情報対面指導室</p>
+      <ul>
+        <li>プログラミング（Python、Java、C/C++）および情報科学の授業において、学生からの質問への対応、課題へのフィードバック、プログラミングの基礎概念の理解支援に従事。</li>
+      </ul>
+    </div>
+  </div>
+
   <div class="timeline-item">
     <div class="timeline-date">2025年4月 - 2026年3月</div>
     <div class="timeline-logo">

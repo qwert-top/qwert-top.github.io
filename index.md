@@ -368,6 +368,20 @@ En/[Ja](index_ja.html)
 <div class="timeline">
 
   <div class="timeline-item">
+    <div class="timeline-date">Apr. 2026 - Present</div>
+    <div class="timeline-logo">
+      <img src="assets/waseda_logo.jpg" alt="Waseda University">
+    </div>
+    <div class="timeline-content">
+      <h3>Learning Assistant at Waseda University</h3>
+      <p>Global Education Center IT Personal Tutoring Office</p>
+      <ul>
+        <li>Supporting undergraduate students in programming (Python, Java, C/C++) and information science courses by answering questions, providing feedback on assignments, and helping them understand fundamental programming concepts.</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="timeline-item">
     <div class="timeline-date">Apr. 2025 - Mar. 2026</div>
     <div class="timeline-logo">
       <img src="assets/waseda_logo.jpg" alt="Waseda University">
