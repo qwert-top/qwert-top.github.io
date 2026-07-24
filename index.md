@@ -298,7 +298,7 @@ En/[Ja](index_ja.html)
 4. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Video Frame Interpolation Using Pretrained Diffusion Model (in Japanese),**” The 87th National Convention of IPSJ, 2025.
 5. <u>Yui Tatsumi</u>, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “**Scalable Image Coding for Humans and Machines Using Feature Differences (in Japanese),**” Picture Coding Symposium of Japan (PCSJ), 2024.
 6. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Assessing the Effectiveness of ICM Method for Privacy Protection (in Japanese),**” Picture Coding Symposium of Japan (PCSJ), 2024.
-7. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),**” ITE Annual Convention, 2024.
+7. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**A Method for Video Frame Interpolation Using Cross-Frame Attention (in Japanese),**” ITE Annual Convention, 2024.
 
 <h2 id="education" class="section-heading">🏫EDUCATION</h2>
 
