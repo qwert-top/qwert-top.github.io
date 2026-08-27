@@ -459,9 +459,10 @@ En/[Ja](index_ja.html)
 
 <h2 id="awards" class="section-heading">🏆ACADEMIC AWARDS</h2>
 
-1. <a href="https://www.ieee-gcce.org/2025/awards.html">Oral Presentation Award</a>, IEEE GCCE 2025 (2025)
-2. Dean's award for students who have achieved excellence in research activities during their undergraduate years, **TOP 5%** in the Department of Communications and Computer Engineering, Waseda University (2025)
-3. <a href="https://www.ieee-gcce.org/2024/presentationawards.html">Oral Presentation Award</a>, IEEE GCCE 2024 (2024)
+1. <a href="https://miru-committee.github.io/miru2026/en/author/award/">MIRU Interactive Presentation Award</a>, MIRU 2026 (2026)
+2. <a href="https://www.ieee-gcce.org/2025/awards.html">Oral Presentation Award</a>, IEEE GCCE 2025 (2025)
+3. Dean's award for students who have achieved excellence in research activities during their undergraduate years, **TOP 5%** in the Department of Communications and Computer Engineering, Waseda University (2025)
+4. <a href="https://www.ieee-gcce.org/2024/presentationawards.html">Oral Presentation Award</a>, IEEE GCCE 2024 (2024)
 
 <h2 id="funding" class="section-heading">💰RESEARCH FUNDING</h2>
 

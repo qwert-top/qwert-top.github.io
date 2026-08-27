@@ -452,9 +452,10 @@ hr {
 
 <h2 id="awards" class="section-heading">🏆受賞</h2>
 
-1. <a href="https://www.ieee-gcce.org/2025/awards.html">Oral Presentation Award</a>, IEEE GCCE 2025 (2025)
-2. 情報通信学科賞, 学部在学中の研究活動において優れた成果を収め、学科内で**上位5**％に入る学生に授与 (2025)
-3. <a href="https://www.ieee-gcce.org/2024/presentationawards.html">Oral Presentation Award</a>, IEEE GCCE 2024 (2024)  
+1. <a href="https://miru-committee.github.io/miru2026/author/award/">MIRUインタラクティブ発表賞</a>, MIRU 2026 (2026)
+2. <a href="https://www.ieee-gcce.org/2025/awards.html">Oral Presentation Award</a>, IEEE GCCE 2025 (2025)
+3. 情報通信学科賞, 学部在学中の研究活動において優れた成果を収め、学科内で**上位5**％に入る学生に授与 (2025)
+4. <a href="https://www.ieee-gcce.org/2024/presentationawards.html">Oral Presentation Award</a>, IEEE GCCE 2024 (2024)  
 
 <h2 id="funding" class="section-heading">💰研究助成</h2>
 
