@@ -244,8 +244,6 @@ En/[Ja](index_ja.html)
 
 ## Preprints
 
-1. Ziyue Zeng, Xun Su, Haoyuan Liu, Bingyu Lu, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow,**” 2026.
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26571)
 
 ## Peer-Reviewed Journal Papers
 
@@ -254,7 +252,10 @@ En/[Ja](index_ja.html)
 
 ## International Conference
 
-1. <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Training-Free Continuous Bitrate Control for Scalable Image Coding for Humans and Machines,**” IEEE 15th Global Conference on Consumer Electronics (**GCCE**), 2026.
+1. <u>Yui Tatsumi</u>, Hiroshi Watanabe, "**Generalizable Variable-Rate Adaptation for Image Coding for Machines,**" IEEE International Conference on Visual Communications and Image Processing (**VCIP**), 2026. (to appear)
+1. Ziyue Zeng, Xun Su, Haoyuan Liu, Bingyu Lu, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow,**” The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026. (to appear)
+[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26571)
+1. <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Training-Free Continuous Bitrate Control for Scalable Image Coding for Humans and Machines,**” IEEE 15th Global Conference on Consumer Electronics (**GCCE**), 2026. (to appear)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.00158)
 1. Ziyue Zeng, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Flow Residual Segmentation and Generative Reconstruction for Motion-Aware Video Coding,**” The 9th IIEEJ International Conference on Image Electronics and Visual Computing (**IEVC**), 2026.
 [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11508206)
@@ -293,12 +294,12 @@ En/[Ja](index_ja.html)
 ## Domestic Conference, Japan
 
 1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Scalable Variable-Rate Video Compression for Humans and Machines via Keyframe Interpolation (in Japanese),**” The 29th Meeting on Image Recognition and Understanding (MIRU), 2026.
-2. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines (in Japanese),**” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
-3. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),**” The 87th National Convention of IPSJ, 2025.
-4. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Video Frame Interpolation Using Pretrained Diffusion Model (in Japanese),**” The 87th National Convention of IPSJ, 2025.
-5. <u>Yui Tatsumi</u>, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “**Scalable Image Coding for Humans and Machines Using Feature Differences (in Japanese),**” Picture Coding Symposium of Japan (PCSJ), 2024.
-6. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Assessing the Effectiveness of ICM Method for Privacy Protection (in Japanese),**” Picture Coding Symposium of Japan (PCSJ), 2024.
-7. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**A Method for Video Frame Interpolation Using Cross-Frame Attention (in Japanese),**” ITE Annual Convention, 2024.
+1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines (in Japanese),**” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
+1. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),**” The 87th National Convention of IPSJ, 2025.
+1. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Video Frame Interpolation Using Pretrained Diffusion Model (in Japanese),**” The 87th National Convention of IPSJ, 2025.
+1. <u>Yui Tatsumi</u>, Takahiro Shindo, Taiju Watanabe, Hiroshi Watanabe, “**Scalable Image Coding for Humans and Machines Using Feature Differences (in Japanese),**” Picture Coding Symposium of Japan (PCSJ), 2024.
+1. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Assessing the Effectiveness of ICM Method for Privacy Protection (in Japanese),**” Picture Coding Symposium of Japan (PCSJ), 2024.
+1. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**A Method for Video Frame Interpolation Using Cross-Frame Attention (in Japanese),**” ITE Annual Convention, 2024.
 
 <h2 id="education" class="section-heading">🏫EDUCATION</h2>
 
