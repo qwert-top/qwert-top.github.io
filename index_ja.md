@@ -157,6 +157,10 @@ hr {
   margin: 1.5em 0;
 }
 
+img[src*="img.shields.io"] {
+  vertical-align: -0.15em;
+}
+
 @media (max-width: 1000px) {
   .side-nav {
     display: none;
