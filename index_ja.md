@@ -161,6 +161,27 @@ img[src*="img.shields.io"] {
   vertical-align: -0.15em;
 }
 
+.news-section {
+  margin-top: 24px;
+  margin-left: 174px;
+}
+
+.news-list {
+  margin: 20px 0 48px;
+}
+
+.news-item {
+  display: flex;
+  gap: 24px;
+  margin: 10px 0;
+}
+
+.news-date {
+  min-width: 72px;
+  font-weight: 600;
+  color: #57606a;
+}
+
 @media (max-width: 1000px) {
   .side-nav {
     display: none;
@@ -197,11 +218,16 @@ img[src*="img.shields.io"] {
     width: 100px;
     height: 100px;
   }
+
+  .news-section {
+    margin-left: 0;
+  }
 }
 </style>
 
 <nav class="side-nav">
   <a href="#profile">プロフィール</a>
+  <a href="#news">ニュース</a>
   <a href="#publications">研究業績</a>
   <a href="#education">学歴</a>
   <a href="#experience">職歴</a>
@@ -240,6 +266,27 @@ img[src*="img.shields.io"] {
     <p>
       修士課程修了（2027年3月見込み）後は企業の研究職に就く予定です。
     </p>
+  </div>
+</div>
+
+<div class="news-section">
+  <h2 id="news" class="section-heading">📰ニュース</h2>
+
+  <div class="news-list">
+    <div class="news-item">
+      <span class="news-date">2026.09.25</span>
+      <span>**NeurIPS 2026** に共著論文が採択されました。</span>
+    </div>
+
+    <div class="news-item">
+      <span class="news-date">2026.09.15</span>
+      <span>**IEEE VCIP 2026** に論文が採択されました。</span>
+    </div>
+
+    <div class="news-item">
+      <span class="news-date">2026.08.06</span>
+      <span>MIRU 2026 にて**インタラクティブ発表賞**を受賞しました。</span>
+    </div>
   </div>
 </div>
 
