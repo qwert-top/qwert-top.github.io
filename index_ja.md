@@ -162,7 +162,6 @@ img[src*="img.shields.io"] {
 }
 
 .news-section {
-  margin-top: 24px;
   margin-left: 174px;
 }
 
@@ -180,6 +179,10 @@ img[src*="img.shields.io"] {
   min-width: 72px;
   font-weight: 600;
   color: #57606a;
+}
+
+#news {
+  margin-top: 24px;
 }
 
 @media (max-width: 1000px) {
@@ -275,17 +278,17 @@ img[src*="img.shields.io"] {
   <div class="news-list">
     <div class="news-item">
       <span class="news-date">2026.09.25</span>
-      <span>**NeurIPS 2026** に共著論文が採択されました。</span>
+      <span><strong>NeurIPS 2026</strong>に共著論文が採択されました。</span>
     </div>
 
     <div class="news-item">
       <span class="news-date">2026.09.15</span>
-      <span>**IEEE VCIP 2026** に論文が採択されました。</span>
+      <span><strong>IEEE VCIP 2026</strong>に論文が採択されました。</span>
     </div>
 
     <div class="news-item">
       <span class="news-date">2026.08.06</span>
-      <span>MIRU 2026 にて**インタラクティブ発表賞**を受賞しました。</span>
+      <span>MIRU 2026 にて<strong>インタラクティブ発表賞</strong>を受賞しました。</span>
     </div>
   </div>
 </div>

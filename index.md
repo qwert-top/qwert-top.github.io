@@ -162,7 +162,6 @@ img[src*="img.shields.io"] {
 }
 
 .news-section {
-  margin-top: 24px;
   margin-left: 174px;
 }
 
@@ -180,6 +179,10 @@ img[src*="img.shields.io"] {
   min-width: 72px;
   font-weight: 600;
   color: #57606a;
+}
+
+#news {
+  margin-top: 24px;
 }
 
 @media (max-width: 1000px) {
@@ -276,17 +279,17 @@ En/[Ja](index_ja.html)
   <div class="news-list">
     <div class="news-item">
       <span class="news-date">2026.09.25</span>
-      <span>Our paper was accepted to **NeurIPS 2026**.</span>
+      <span>Our paper was accepted to <strong>NeurIPS 2026</strong>.</span>
     </div>
 
     <div class="news-item">
       <span class="news-date">2026.09.15</span>
-      <span>Our paper was accepted to **IEEE VCIP 2026**.</span>
+      <span>Our paper was accepted to <strong>IEEE VCIP 2026</strong>.</span>
     </div>
 
     <div class="news-item">
       <span class="news-date">2026.08.06</span>
-      <span>I received the **MIRU 2026 Interactive Presentation Award**.</span>
+      <span>I received the <strong>MIRU 2026 Interactive Presentation Award</strong>.</span>
     </div>
   </div>
 </div>
