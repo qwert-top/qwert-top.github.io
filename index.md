@@ -182,7 +182,7 @@ img[src*="img.shields.io"] {
 }
 
 #news {
-  margin-top: 24px;
+  margin-top: 15px;
 }
 
 @media (max-width: 1000px) {
