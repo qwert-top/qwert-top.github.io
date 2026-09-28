@@ -161,6 +161,26 @@ img[src*="img.shields.io"] {
   vertical-align: -0.15em;
 }
 
+.news-section {
+  margin-left: 174px;
+}
+
+.news-list {
+  margin: 20px 0 48px;
+}
+
+.news-item {
+  display: flex;
+  gap: 24px;
+  margin: 10px 0;
+}
+
+.news-date {
+  min-width: 72px;
+  font-weight: 600;
+  color: #57606a;
+}
+
 @media (max-width: 1000px) {
   .side-nav {
     display: none;
@@ -197,11 +217,16 @@ img[src*="img.shields.io"] {
     width: 100px;
     height: 100px;
   }
+
+  .news-section {
+    margin-left: 0;
+  }
 }
 </style>
 
 <nav class="side-nav">
   <a href="#profile">Profile</a>
+  <a href="#news">News</a>
   <a href="#publications">Publications</a>
   <a href="#education">Education</a>
   <a href="#experience">Experience</a>
@@ -241,6 +266,27 @@ En/[Ja](index_ja.html)
     <p>
       After completing my master’s program in Spring 2027, I plan to pursue a research position in industry.
     </p>
+  </div>
+</div>
+
+<div class="news-section">
+  <h2 id="news" class="section-heading">📰 News</h2>
+
+  <div class="news-list">
+    <div class="news-item">
+      <span class="news-date">2026.09.25</span>
+      <span>Our paper was accepted to NeurIPS 2026.</span>
+    </div>
+
+    <div class="news-item">
+      <span class="news-date">2026.09.15</span>
+      <span>Our paper was accepted to IEEE VCIP 2026.</span>
+    </div>
+
+    <div class="news-item">
+      <span class="news-date">2026.08.06</span>
+      <span>I received the MIRU 2026 Interactive Presentation Award.</span>
+    </div>
   </div>
 </div>
 
