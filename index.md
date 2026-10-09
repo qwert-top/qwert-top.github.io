@@ -306,6 +306,8 @@ En/[Ja](index_ja.html)
 
 ## International Conference
 
+1. <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Scalable Variable-Rate Video Compression for Humans and Machines via Keyframe Interpolation**,” International Workshop on Advanced Image Technology (**IWAIT**), 2027. (to appear)
+1. Ananthiya Chanchotsathien, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Hierarchical Vision MLP: A Simple Local Aggregation Model for Efficient Image Classification,**” International Workshop on Advanced Image Technology (**IWAIT**), 2027. (to appear)
 1. <u>Yui Tatsumi</u>, Hiroshi Watanabe, "**Generalizable Variable-Rate Adaptation for Image Coding for Machines,**" IEEE International Conference on Visual Communications and Image Processing (**VCIP**), 2026. (to appear)
 1. Ziyue Zeng, Xun Su, Haoyuan Liu, Bingyu Lu, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow,**” The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026. (to appear)
 [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26571)
