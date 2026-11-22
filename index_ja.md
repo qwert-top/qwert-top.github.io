@@ -269,6 +269,7 @@ img[src*="img.shields.io"] {
     <p>
       修士課程修了（2027年3月見込み）後は企業の研究職に就く予定です。
     </p>
+
   </div>
 </div>
 
@@ -290,6 +291,7 @@ img[src*="img.shields.io"] {
       <span class="news-date">2026.08.06</span>
       <span>MIRU 2026 にて<strong>インタラクティブ発表賞</strong>を受賞しました。</span>
     </div>
+
   </div>
 </div>
 
@@ -297,11 +299,10 @@ img[src*="img.shields.io"] {
 
 ## プレプリント
 
-
 ## 査読付き学術論文
 
 1. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Image Coding for Object Recognition Tasks Based on Contour Feature Learning with Flexible Object Selection,**” **IEEE Access**, 2025.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/abstract/document/11029205)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/abstract/document/11029205)
 
 ## 国際会議
 
@@ -309,52 +310,56 @@ img[src*="img.shields.io"] {
 1. Ananthiya Chanchotsathien, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Hierarchical Vision MLP: A Simple Local Aggregation Model for Efficient Image Classification,**” International Workshop on Advanced Image Technology (**IWAIT**), 2027. (to appear)
 1. <u>Yui Tatsumi</u>, Hiroshi Watanabe, "**Generalizable Variable-Rate Adaptation for Image Coding for Machines,**" IEEE International Conference on Visual Communications and Image Processing (**VCIP**), 2026. (to appear)
 1. Ziyue Zeng, Xun Su, Haoyuan Liu, Bingyu Lu, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**GVCC: Zero-Shot Video Compression via Codebook-Driven Stochastic Rectified Flow,**” The Fortieth Annual Conference on Neural Information Processing Systems (**NeurIPS**), 2026. (to appear)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26571)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2603.26571)
 1. <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Training-Free Continuous Bitrate Control for Scalable Image Coding for Humans and Machines,**” IEEE 15th Global Conference on Consumer Electronics (**GCCE**), 2026. (to appear)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.00158)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2606.00158)
 1. Ziyue Zeng, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Flow Residual Segmentation and Generative Reconstruction for Motion-Aware Video Coding,**” The 9th IIEEJ International Conference on Image Electronics and Visual Computing (**IEVC**), 2026.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11508206)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11508206)
 1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Training-Free Adaptive Quantization for Variable Rate Image Coding for Machines,**” IEEE 44th International Conference on Consumer Electronics (**ICCE**), 2026.
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.05836)
-  [![Generic badge](https://img.shields.io/badge/Code-grey)](https://github.com/qwert-top/AQVR-ICM)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11449636)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2511.05836)
+   [![Generic badge](https://img.shields.io/badge/Code-grey)](https://github.com/qwert-top/AQVR-ICM)
 1. Taiju Watanabe, Takahiro Shindo, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**VFI-LoRA: Leveraging Video Diffusion Models for Video Interpolation Through LoRA Finetuning,**” IEEE International Conference on Internet of Things and Intelligence System (**IoTaIS**), 2025.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11282119)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11282119)
 1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Seed Selection for Human-Oriented Image Reconstruction via Guided Diffusion,**” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
- [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11274920)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05363)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11274920)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.05363)
 1. Ziyue Zeng, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Bidirectional Attention-Gated Motion Injection for Frame Interpolation,**” IEEE 14th Global Conference on Consumer Electronics (**GCCE**), 2025.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11275014)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11275014)
 1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Explicit Residual-Based Scalable Image Coding for Humans and Machines,**” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11324339)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.19297)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11324339)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2506.19297)
 1. Takahiro Shindo, <u>Yui Tatsumi</u>, Taiju Watanabe, Hiroshi Watanabe, “**Guided Diffusion for the Extension of Machine Vision to Human Visual Perception,**” IEEE 27th International Workshop on Multimedia Signal Processing (**MMSP**), 2025.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11324163)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/11324163)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2503.17907)
 1. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Delta-ICM: Entropy Modeling with Delta Function for Learned Image Compression,**” IEEE 43rd International Conference on Consumer Electronics (**ICCE**), 2025.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10929842)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07669)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10929842)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2410.07669)
 1. <u>Yui Tatsumi</u>, Shoko Tanaka, Shunsuke Akamatsu, Takahiro Shindo, Hiroshi Watanabe, “**Classification in Japanese Sign Language Based on Dynamic Facial Expressions,**” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760997)
-[![Generic badge](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06347)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760997)
+   [![Generic badge](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2411.06347)
 1. Shoko Tanaka, <u>Yui Tatsumi</u>, Takahiro Shindo, Hiroshi Watanabe, “**Integrating QR Code Characteristics Into Super-Resolution Method,**” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760486)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760486)
 1. Takahiro Shindo, <u>Yui Tatsumi</u>, Taiju Watanabe, Hiroshi Watanabe, “**Refining Coded Image in Human Vision Layer Using CNN-Based Post-Processing,**” IEEE 13th Global Conference on Consumer Electronics (**GCCE**), 2024.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760327)
-  [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11894)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10760327)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.11894)
 1. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Scalable Image Coding for Humans and Machines Using Feature Fusion Network,**” IEEE 26th International Workshop on Multimedia Signal Processing (**MMSP**), 2024.
-[![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10743782)
-[![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09152)
- [![Generic badge](https://img.shields.io/badge/Code-grey)](https://github.com/final-0/ICM-v1)
+   [![Generic badge](https://img.shields.io/badge/IEEE_Xplore-00629B.svg)](https://ieeexplore.ieee.org/document/10743782)
+   [![arXiv](https://img.shields.io/badge/arXiv-b31b1b.svg)](https://arxiv.org/abs/2405.09152)
+   [![Generic badge](https://img.shields.io/badge/Code-grey)](https://github.com/final-0/ICM-v1)
 
 ## 国内会議
 
-1. <u>巽優衣</u>, Ziyue Zeng, 渡辺裕, “**キーフレーム補間を用いた視聴と認識のための階層型可変レート動画圧縮,**” 第29回画像の認識・理解シンポジウム (MIRU), 2026.
-1. <u>巽優衣</u>, Ziyue Zeng, 渡辺裕, “**視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証,**” 第28回画像の認識・理解シンポジウム (MIRU), 2025.
-1. 進藤嵩紘, 渡部泰樹, <u>巽優衣</u>, 渡辺裕, “**機械のための復号画像における顔認証精度の評価,**” 情報処理学会全国大会, 2025.
-1. 渡部泰樹, 進藤嵩紘, <u>巽優衣</u>, 渡辺裕, “**事前学習済みの拡散モデルを使用したフレーム補間,**” 情報処理学会全国大会, 2025.
-1. <u>巽優衣</u>, 進藤嵩紘, 渡部泰樹, 渡辺裕, “**特徴量差分を用いた視聴と画像認識のための階層画像符号化,**” 画像符号化シンポジウム (PCSJ), 2024.
-1. 進藤嵩紘, 渡部泰樹, <u>巽優衣</u>, 渡辺裕, “**ICM手法のプライバシー保護における有効性の検証,**” 画像符号化シンポジウム (PCSJ), 2024.
-1. 渡部泰樹, 進藤嵩紘, <u>巽優衣</u>, 渡辺裕, “**Cross-Frame Attention を用いた映像補間モデルの一検討,**” 映像情報メディア学会年次大会, 2024.
+1. <u>巽優衣</u>, 渡辺裕, “**重要度に基づく適応量子化と知識蒸留による機械向け画像圧縮の汎用的な可変レート化**,” 画像符号化シンポジウム (PCSJ), 2026.
+1. 譜久原理樹人, <u>巽優衣</u>, 渡辺裕, “**生成型画像圧縮における文字劣化の定量評価と文字保護手法の検討**,” 画像符号化シンポジウム (PCSJ), 2026.
+1. 山口晴矢, <u>巽優衣</u>, 渡辺裕, “**局所的な劣化予測に基づく学習型画像圧縮の性能改善に関する検討**,” 画像符号化シンポジウム (PCSJ), 2026.
+1. <u>巽優衣</u>, Ziyue Zeng, 渡辺裕, “**キーフレーム補間を用いた視聴と認識のための階層型可変レート動画圧縮**,” 第29回画像の認識・理解シンポジウム (MIRU), 2026.
+1. <u>巽優衣</u>, Ziyue Zeng, 渡辺裕, “**視聴と画像認識のための階層画像符号化における残差情報の活用とその有効性の検証**,” 第28回画像の認識・理解シンポジウム (MIRU), 2025.
+1. 進藤嵩紘, 渡部泰樹, <u>巽優衣</u>, 渡辺裕, “**機械のための復号画像における顔認証精度の評価**,” 情報処理学会全国大会, 2025.
+1. 渡部泰樹, 進藤嵩紘, <u>巽優衣</u>, 渡辺裕, “**事前学習済みの拡散モデルを使用したフレーム補間**,” 情報処理学会全国大会, 2025.
+1. <u>巽優衣</u>, 進藤嵩紘, 渡部泰樹, 渡辺裕, “**特徴量差分を用いた視聴と画像認識のための階層画像符号化**,” 画像符号化シンポジウム (PCSJ), 2024.
+1. 進藤嵩紘, 渡部泰樹, <u>巽優衣</u>, 渡辺裕, “**ICM手法のプライバシー保護における有効性の検証**,” 画像符号化シンポジウム (PCSJ), 2024.
+1. 渡部泰樹, 進藤嵩紘, <u>巽優衣</u>, 渡辺裕, “**Cross-Frame Attention を用いた映像補間モデルの一検討**,” 映像情報メディア学会年次大会, 2024.
 
 <h2 id="education" class="section-heading">🏫学歴</h2>
 
@@ -417,11 +422,9 @@ img[src*="img.shields.io"] {
 
 </div>
 
-
 <h2 id="experience" class="section-heading">👔職歴</h2>
 
 <div class="timeline">
-
 
   <div class="timeline-item">
     <div class="timeline-date">2026年4月 - 現在</div>
@@ -512,7 +515,7 @@ img[src*="img.shields.io"] {
 1. <a href="https://miru-committee.github.io/miru2026/author/award/">MIRUインタラクティブ発表賞</a>, MIRU 2026 (2026)
 2. <a href="https://www.ieee-gcce.org/2025/awards.html">Oral Presentation Award</a>, IEEE GCCE 2025 (2025)
 3. 情報通信学科賞, 学部在学中の研究活動において優れた成果を収め、学科内で**上位5**％に入る学生に授与 (2025)
-4. <a href="https://www.ieee-gcce.org/2024/presentationawards.html">Oral Presentation Award</a>, IEEE GCCE 2024 (2024)  
+4. <a href="https://www.ieee-gcce.org/2024/presentationawards.html">Oral Presentation Award</a>, IEEE GCCE 2024 (2024)
 
 <h2 id="funding" class="section-heading">💰研究助成</h2>
 
