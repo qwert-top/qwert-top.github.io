@@ -467,7 +467,7 @@ En/[Ja](index_ja.html)
   </div>
 
  <div class="timeline-item">
-    <div class="timeline-date">Oct. 2026</div>
+    <div class="timeline-date">Oct. 2025</div>
     <div class="timeline-logo">
       <img src="assets/waseda_logo.jpg" alt="Waseda University">
     </div>
