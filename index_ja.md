@@ -248,24 +248,19 @@ img[src*="img.shields.io"] {
 
   <div class="profile-content">
     <h1>巽 優衣 / Yui Tatsumi</h1>
-
-    <p>
-      <a href="https://github.com/qwert-top"><strong>Github</strong></a>　/　
-      <a href="http://linkedin.com/in/qwert-top"><strong>Linkedin</strong></a>　/　
-      <a href="https://scholar.google.com/citations?user=u1nK1wgAAAAJ"><strong>Google Scholar</strong></a>
-    </p>
-
+  　<p>
+    <a href="https://github.com/qwert-top"><strong>Github</strong></a>　/　
+    <a href="http://linkedin.com/in/qwert-top"><strong>Linkedin</strong></a>　/　
+    <a href="https://scholar.google.com/citations?user=u1nK1wgAAAAJ"><strong>Google Scholar</strong></a>
+  　</p>
     <p><strong>早稲田大学 大学院 基幹理工学研究科 情報理工・情報通信専攻 修士2年</strong></p>
-
     <p>
       人工知能、コンピュータービジョン、信号処理などに興味があります。
       渡辺裕教授の指導のもと、主にニューラルネットワークを用いた視聴や認識のための画像圧縮技術について研究しています。
     </p>
-
     <p>
       学部時の成績および研究業績が学科内の上位5%であり、卒業時には学科賞をいただきました。
     </p>
-
     <p>
       修士課程修了（2027年3月見込み）後は企業の研究職に就く予定です。
     </p>
@@ -281,12 +276,10 @@ img[src*="img.shields.io"] {
       <span class="news-date">2026.09.25</span>
       <span><strong>NeurIPS 2026</strong>に共著論文が採択されました。</span>
     </div>
-
     <div class="news-item">
       <span class="news-date">2026.09.15</span>
       <span><strong>IEEE VCIP 2026</strong>に論文が採択されました。</span>
     </div>
-
     <div class="news-item">
       <span class="news-date">2026.08.06</span>
       <span>MIRU 2026 にて<strong>インタラクティブ発表賞</strong>を受賞しました。</span>
@@ -374,10 +367,11 @@ img[src*="img.shields.io"] {
       <h3>修士（工学）</h3>
       <p><strong><a href="https://www.waseda.jp/top/">早稲田大学</a> 基幹理工学研究科 情報理工・情報通信専攻</strong></p>
       <p>指導教員：<a href="https://www.ams.giti.waseda.ac.jp/">渡辺 裕 教授</a></p>
-      <p>研究テーマ：人間と機械のための画像圧縮</p>
+      <p>研究テーマ：視聴と認識のための画像圧縮</p>
       <ul>
       <li>リサーチアシスタントとしてNICT委託研究に従事</li>
-      <li>主な履修科目：画像情報特論、自然言語処理、情報セキュリティなど</li>
+      <li>主な履修科目：画像情報特論、自然言語処理、情報セキュリティ、ソフトウェア開発など</li>
+      <li>IEEE VCIP 2026などの国際・国内会議で論文を発表</li>
       </ul>
     </div>
   </div>
@@ -392,11 +386,11 @@ img[src*="img.shields.io"] {
       <p><strong><a href="https://www.waseda.jp/top/">早稲田大学</a> 基幹理工学部 情報通信学科</strong></p>
       <p>GPA：3.6/4.0 <strong>（上位5%）</strong></p>
       <p>指導教員：<a href="https://www.ams.giti.waseda.ac.jp/">渡辺 裕 教授</a></p>
-      <p>研究テーマ：人間と機械のための画像圧縮、手話認識</p>
+      <p>研究テーマ：視聴と認識のための画像圧縮、手話認識</p>
       <ul>
         <li>研究補助者としてNICT委託研究に従事</li>
         <li>主な履修科目：コンピュータプログラミング、マルチメディアシステム、ソフトウェア工学、コンピュータアーキテクチャ、情報理論、オペレーティングシステム、信号処理など</li>
-        <li><em>IEEE GCCE 2024</em> や <em>PCSJ/IMPS 2024</em> などの国際・国内会議で論文を発表</li>
+        <li>IEEE GCCE 2024などの国際・国内会議で論文を発表</li>
       </ul>
     </div>
   </div>
@@ -432,8 +426,8 @@ img[src*="img.shields.io"] {
       <img src="assets/waseda_logo.jpg" alt="早稲田大学">
     </div>
     <div class="timeline-content">
-      <h3>早稲田大学 ラーニングアシスタント</h3>
-      <p>グローバルエデュケーションセンター情報対面指導室</p>
+      <h3>ラーニングアシスタント</h3>
+      <p>早稲田大学</p>
       <ul>
         <li>プログラミング（Python、Java、C/C++）および情報科学の授業において、学生からの質問への対応、課題へのフィードバック、プログラミングの基礎概念の理解支援に従事</li>
       </ul>
@@ -441,17 +435,17 @@ img[src*="img.shields.io"] {
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">2025年4月 - 2026年3月</div>
+    <div class="timeline-date">2024年4月 - 2026年3月</div>
     <div class="timeline-logo">
-      <img src="assets/waseda_logo.jpg" alt="早稲田大学">
+      <img src="assets/nict_logo.png" alt="NICT">
     </div>
     <div class="timeline-content">
-      <h3>早稲田大学 リサーチアシスタント</h3>
-      <p>NICT委託研究 課題番号 05101</p>
+      <h3>リサーチアシスタント</h3>
+      <p>国立研究開発法人情報通信研究機構（NICT）</p>
       <ul>
-        <li>早稲田大学のリサーチアシスタントとして、国立研究開発法人情報通信研究機構（NICT）から委託された研究プロジェクトを主導</li>
-        <li>人間と機械のための画像圧縮に関する研究に従事</li>
-        <li>早稲田大学の委託研究チームから、IEEE MMSP 2024やIEEE Accessを含む国内外の学会・論文誌で計9本の論文を発表</li>
+        <li>NICTから委託された研究プロジェクト（課題番号 05101）を主導</li>
+        <li>機械向け画像符号化、視聴と認識のための画像符号化、動画フレーム補間などに関する研究に従事</li>
+        <li>早稲田大学の委託研究チームから、学術論文1件および国際会議論文11件を発表（IEEE MMSP 2025、IEEE ICCE 2025など）</li>
       </ul>
     </div>
   </div>
@@ -462,9 +456,23 @@ img[src*="img.shields.io"] {
       <img src="assets/hitachi_logo.jpg" alt="Hitachi">
     </div>
     <div class="timeline-content">
-      <h3>日立製作所 中央研究所 研究インターン</h3>
-      <p>研究開発グループ</p>
+      <h3>研究インターン</h3>
+      <p>日立製作所 中央研究所</p>
       <ul><li>AIエージェントの信頼性向上および自己成長技術に関する研究に従事</li></ul>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-date">2025年10月</div>
+    <div class="timeline-logo">
+      <img src="assets/waseda_logo.jpg" alt="早稲田大学">
+    </div>
+    <div class="timeline-content">
+      <h3>ティーチングアシスタント</h3>
+      <p>早稲田大学</p>
+      <ul>
+        <li>画像認識のための深層学習に関する演習において、ネットワーク構造、学習の仕組み、画像処理などについて、学生の実習支援に従事</li>
+      </ul>
     </div>
   </div>
 
@@ -474,8 +482,8 @@ img[src*="img.shields.io"] {
       <img src="assets/ibm_logo.png" alt="IBM">
     </div>
     <div class="timeline-content">
-      <h3>IBM Research - Tokyo 研究インターン</h3>
-      <p>AI Automation</p>
+      <h3>研究インターン</h3>
+      <p>IBM Research - Tokyo</p>
       <ul><li>コンプライアンス自動化のためのAIエージェントに関する研究・調査に従事</li></ul>
     </div>
   </div>
@@ -486,28 +494,11 @@ img[src*="img.shields.io"] {
       <img src="assets/sansan_logo.png" alt="Sansan">
     </div>
     <div class="timeline-content">
-      <h3>Sansan株式会社 研究インターン</h3>
-      <p>R&amp;D Automation Group</p>
+      <h3>研究インターン</h3>
+      <p>Sansan株式会社</p>
       <ul><li>内製VLMであるViolaの性能および自動化率向上を目的として、名刺デジタル化に関する研究開発に従事</li></ul>
     </div>
   </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">2024年4月 - 2025年3月</div>
-    <div class="timeline-logo">
-      <img src="assets/waseda_logo.jpg" alt="早稲田大学">
-    </div>
-    <div class="timeline-content">
-      <h3>早稲田大学 研究補助者</h3>
-      <p>NICT委託研究 課題番号 05101</p>
-      <ul>
-        <li>早稲田大学の研究補助者として、国立研究開発法人情報通信研究機構（NICT）から委託された研究プロジェクトを主導</li>
-        <li>視聴と認識のための階層型画像圧縮に関する研究に従事</li>
-        <li>早稲田大学の委託研究チームから、IEEE MMSP 2024を含む国内外の学会で計8本の論文を発表</li>
-      </ul>
-    </div>
-  </div>
-
 </div>
 
 <h2 id="awards" class="section-heading">🏆受賞</h2>

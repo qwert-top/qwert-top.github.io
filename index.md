@@ -233,7 +233,7 @@ img[src*="img.shields.io"] {
   <a href="#news">News</a>
   <a href="#publications">Publications</a>
   <a href="#education">Education</a>
-  <a href="#experience">Experience</a>
+  <a href="#experience">Work Experience</a>
   <a href="#awards">Awards</a>
   <a href="#funding">Funding</a>
   <a href="#skills">Skills</a>
@@ -248,25 +248,20 @@ En/[Ja](index_ja.html)
 
   <div class="profile-content">
     <h1>Yui Tatsumi</h1>
-
     <p>
       <a href="https://github.com/qwert-top"><strong>Github</strong></a>　/　
       <a href="http://linkedin.com/in/qwert-top"><strong>Linkedin</strong></a>　/　
       <a href="https://scholar.google.com/citations?user=u1nK1wgAAAAJ"><strong>Google Scholar</strong></a>
     </p>
-
     <p><strong>Hi! I’m Yui Tatsumi, a Master’s student in Computer Science at Waseda University, Japan.</strong></p>
-
     <p>
       My research interests include Artificial Intelligence, Computer Vision, and Signal Processing.
       Under the supervision of Professor Hiroshi Watanabe, my reseach primarily focuses on
       Neural Network-based Image Compression for Humans and Machines.
     </p>
-
     <p>
       Upon graduating from my undergraduate program, I received a departmental award for ranking in the top 5% of my department based on academic performance and research achievements.
     </p>
-
     <p>
       After completing my master’s program in Spring 2027, I plan to pursue a research position in industry.
     </p>
@@ -282,12 +277,10 @@ En/[Ja](index_ja.html)
       <span class="news-date">2026.09.25</span>
       <span>Our paper was accepted to <strong>NeurIPS 2026</strong>.</span>
     </div>
-
     <div class="news-item">
       <span class="news-date">2026.09.15</span>
       <span>Our paper was accepted to <strong>IEEE VCIP 2026</strong>.</span>
     </div>
-
     <div class="news-item">
       <span class="news-date">2026.08.06</span>
       <span>I received the <strong>MIRU 2026 Interactive Presentation Award</strong>.</span>
@@ -351,9 +344,9 @@ En/[Ja](index_ja.html)
 
 ## Domestic Conference, Japan
 
-1. <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Generalizable Variable-Rate Adaptation for Image Coding for Machines via Importance-Adaptive Quantization and Knowledge Distillation (in Japanese)**,” 画像符号化シンポジウム (PCSJ), 2026.
-1. Rikito Fukuhara, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Quantitative Evaluation of Text Degradation in Generative Image Compression and a Study on Text Preservation Methods (in Japanese)**,” 画像符号化シンポジウム (PCSJ), 2026.
-1. Haruya Yamaguchi, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**A Study on Performance Improvement of Learned Image Compression Based on Local Degradation Prediction (in Japanese)**,” 画像符号化シンポジウム (PCSJ), 2026.
+1. <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Generalizable Variable-Rate Adaptation for Image Coding for Machines via Importance-Adaptive Quantization and Knowledge Distillation (in Japanese)**,” Picture Coding Symposium of Japan (PCSJ), 2026.
+1. Rikito Fukuhara, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Quantitative Evaluation of Text Degradation in Generative Image Compression and a Study on Text Preservation Methods (in Japanese)**,” Picture Coding Symposium of Japan (PCSJ), 2026.
+1. Haruya Yamaguchi, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**A Study on Performance Improvement of Learned Image Compression Based on Local Degradation Prediction (in Japanese)**,” Picture Coding Symposium of Japan (PCSJ), 2026.
 1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Scalable Variable-Rate Video Compression for Humans and Machines via Keyframe Interpolation (in Japanese),**” The 29th Meeting on Image Recognition and Understanding (MIRU), 2026.
 1. <u>Yui Tatsumi</u>, Ziyue Zeng, Hiroshi Watanabe, “**Assessing the Effectiveness of Residual Information in Scalable Image Coding for Humans and Machines (in Japanese),**” The 28th Meeting on Image Recognition and Understanding (MIRU), 2025.
 1. Takahiro Shindo, Taiju Watanabe, <u>Yui Tatsumi</u>, Hiroshi Watanabe, “**Evaluation of Face Recognition Accuracy in Decoded Images for Machine Vision (in Japanese),**” The 87th National Convention of IPSJ, 2025.
@@ -378,7 +371,7 @@ En/[Ja](index_ja.html)
       <p>Topics: Image Compression for Humans/Machines</p>
       <ul>
         <li>Conducted NICT commissioned research as a Research Assistant.</li>
-        <li>Relevant Coursework: Advanced Image Information, Natural Language Processing, Information Security, and more. </li>
+        <li>Relevant Coursework: Advanced Image Information, Natural Language Processing, Information Security, Software Decelopment, and more. </li>
       </ul>
     </div>
   </div>
@@ -425,7 +418,7 @@ En/[Ja](index_ja.html)
 
 </div>
 
-<h2 id="experience" class="section-heading">👔EXPERIENCE</h2>
+<h2 id="experience" class="section-heading">👔WORK EXPERIENCE</h2>
 
 <div class="timeline">
 
@@ -435,40 +428,54 @@ En/[Ja](index_ja.html)
       <img src="assets/waseda_logo.jpg" alt="Waseda University">
     </div>
     <div class="timeline-content">
-      <h3>Learning Assistant at Waseda University</h3>
-      <p>Global Education Center IT Personal Tutoring Office</p>
+      <h3>Learning Assistant</h3>
+      <p>Waseda University</p>
       <ul>
         <li>Supporting undergraduate students in programming (Python, Java, C/C++) and information science courses by answering questions, providing feedback on assignments, and helping them understand fundamental programming concepts.</li>
       </ul>
     </div>
   </div>
 
-  <div class="timeline-item">
-    <div class="timeline-date">Apr. 2025 - Mar. 2026</div>
+   <div class="timeline-item">
+    <div class="timeline-date">Apr. 2024 - Mar. 2026</div>
     <div class="timeline-logo">
-      <img src="assets/waseda_logo.jpg" alt="Waseda University">
+      <img src="assets/nict_logo.png" alt="NICT">
     </div>
     <div class="timeline-content">
-      <h3>Research Assistant at Waseda University</h3>
-      <p>Research project commissioned by NICT, Grant No. 05101</p>
+      <h3>Commissioned Research Assistant</h3>
+      <p>National Institute of Information and Communications Technology (NICT)</p>
       <ul>
-        <li>Led a research project commissioned by the National Institute of Information and Communications Technology (NICT), as a Research Assistant at Waseda University.</li>
-        <li>Conducted research on Image Compression for Humans/Machines.</li>
-        <li>Published 9 papers in domestic/international conferences and journals as a commissioned research team at Waseda University, including IEEE MMSP 2024 and IEEE Access.</Li>
+        <li>Led a research project (Grant No. 05101) commissioned by NICT.
+        <li>Worked on research projects such as Image Coding for Machines, Scalable Image Coding for Humans and Machines and Video Frame Interpolation.</li>
+        <li>Published one journal paper and eleven international conference papers (IEEE MMSP 2025, IEEE ICCE 2025, etc.) as a commissioned research team from Waseda University.</li>
       </ul>
     </div>
   </div>
 
   <div class="timeline-item">
-    <div class="timeline-date">Jan. 2026 - Jan. 2026</div>
+    <div class="timeline-date">Jan. 2026</div>
     <div class="timeline-logo">
       <img src="assets/hitachi_logo.jpg" alt="Hitachi">
     </div>
     <div class="timeline-content">
-      <h3>Research Intern at Hitachi, Central Research Laboratory</h3>
-      <p>R&amp;D Group</p>
+      <h3>Research Intern</h3>
+      <p>Hitachi, Central Research Laboratory</p>
       <ul>
         <li>Conducted research on reliability enhancement and self-evolution technologies for AI agents.</li>
+      </ul>
+    </div>
+  </div>
+
+ <div class="timeline-item">
+    <div class="timeline-date">Oct. 2026</div>
+    <div class="timeline-logo">
+      <img src="assets/waseda_logo.jpg" alt="Waseda University">
+    </div>
+    <div class="timeline-content">
+      <h3>Teaching Assistant</h3>
+      <p>Waseda University</p>
+      <ul>
+        <li>Assisted students with hands-on exercises in deep learning for image recognition, covering network architectures, training mechanisms, and image processing.</li>
       </ul>
     </div>
   </div>
@@ -479,8 +486,8 @@ En/[Ja](index_ja.html)
       <img src="assets/ibm_logo.png" alt="IBM">
     </div>
     <div class="timeline-content">
-      <h3>Research Intern at IBM Research - Tokyo</h3>
-      <p>AI Automation</p>
+      <h3>Research Intern</h3>
+      <p>IBM Research - Tokyo</p>
       <ul>
         <li>Conducted research and investigation on AI agents for compliance automation.</li>
       </ul>
@@ -493,26 +500,10 @@ En/[Ja](index_ja.html)
       <img src="assets/sansan_logo.png" alt="Sansan">
     </div>
     <div class="timeline-content">
-      <h3>Research Intern at Sansan</h3>
-      <p>R&amp;D Automation Group</p>
+      <h3>Research Intern</h3>
+      <p>Sansan</p>
       <ul>
         <li>Conducted R&amp;D on business card digitization, focusing on improving the performance and automation rate of Viola, an in-house VLM developed at Sansan.</li>
-      </ul>
-    </div>
-  </div>
-
-  <div class="timeline-item">
-    <div class="timeline-date">Apr. 2024 - Mar. 2025</div>
-    <div class="timeline-logo">
-      <img src="assets/waseda_logo.jpg" alt="Waseda University">
-    </div>
-    <div class="timeline-content">
-      <h3>Research Support Staff at Waseda University</h3>
-      <p>Research project commissioned by NICT, Grant No. 05101</p>
-      <ul>
-        <li>Led a research project commissioned by NICT, as a Research Support Staff at Waseda University.</li>
-        <li>Conducted research on Scalable Image Compression for Humans and Machines.</li>
-        <li>Published 8 papers in domestic/international conferences as a commissioned research team at Waseda University, including IEEE MMSP 2024. </li>
       </ul>
     </div>
   </div>
