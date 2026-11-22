@@ -445,7 +445,7 @@ En/[Ja](index_ja.html)
       <h3>Commissioned Research Assistant</h3>
       <p>National Institute of Information and Communications Technology (NICT)</p>
       <ul>
-        <li>Led a research project (Grant No. 05101) commissioned by NICT.
+        <li>Led a research project (Grant No. 05101) commissioned by NICT.</li>
         <li>Worked on research projects such as Image Coding for Machines, Scalable Image Coding for Humans and Machines and Video Frame Interpolation.</li>
         <li>Published one journal paper and eleven international conference papers (IEEE MMSP 2025, IEEE ICCE 2025, etc.) as a commissioned research team from Waseda University.</li>
       </ul>
