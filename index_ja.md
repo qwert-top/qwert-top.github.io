@@ -3,231 +3,6 @@ layout: default
 title: Yui Tatsumi / 巽 優衣
 ---
 
-<style>
-* {
-  box-sizing: border-box;
-}
-
-body {
-  margin: 0;
-  line-height: 1.7;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
-  color: #24292f;
-  background: #ffffff;
-}
-.page-content {
-  max-width: 1200px;
-  margin: 40px auto;
-  padding: 0 20px 0 150px;
-}
-
-.side-nav {
-  position: fixed;
-  left: 35px;
-  top: 140px;
-  width: 150px;
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  font-size: 0.95rem;
-}
-
-.side-nav a {
-  color: #57606a;
-  text-decoration: none;
-  padding: 4px 0 4px 10px;
-  border-left: 2px solid transparent;
-}
-
-.side-nav a:hover {
-  color: #0969da;
-  border-left-color: #0969da;
-}
-
-.section-heading {
-  scroll-margin-top: 32px;
-  margin-top: 72px;
-  margin-bottom: 28px;
-  padding-bottom: 10px;
-  border-bottom: 3px solid #d0d7de;
-  font-size: 1.8rem;
-  letter-spacing: 0.02em;
-}
-
-.profile {
-  display: flex;
-  align-items: flex-start;
-  gap: 24px;
-  margin: 24px 0 36px;
-}
-
-.profile img {
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
-  flex-shrink: 0;
-}
-
-.profile-content {
-  flex: 1;
-}
-
-.profile-content h1 {
-  margin-top: 0;
-}
-
-.timeline {
-  margin: 20px 0 48px;
-}
-
-.timeline-item {
-  display: grid;
-  grid-template-columns: 180px 90px 1fr;
-  column-gap: 28px;
-  align-items: start;
-  margin: 32px 0 48px;
-}
-
-.timeline-date {
-  font-size: 1.05rem;
-  color: #111;
-  white-space: nowrap;
-  padding-top: 6px;
-}
-
-.timeline-logo {
-  display: flex;
-  justify-content: center;
-  padding-top: 4px;
-}
-
-.timeline-logo img {
-  width: 58px;
-  height: 58px;
-  object-fit: contain;
-}
-
-.timeline-logo .logo-placeholder {
-  width: 58px;
-  height: 58px;
-  border-radius: 12px;
-  background: #f6f8fa;
-  border: 1px solid #d0d7de;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-weight: 700;
-  color: #57606a;
-  font-size: 0.85rem;
-}
-
-.timeline-content h3 {
-  margin: 0 0 6px;
-  font-size: 1.25rem;
-}
-
-.timeline-content p {
-  margin: 6px 0;
-}
-
-.timeline-content ul {
-  margin-top: 8px;
-}
-
-blockquote {
-  border-left: 4px solid #d0d7de;
-  background: #f6f8fa;
-  padding: 1em 1.2em;
-  margin: 1.2em 0;
-  border-radius: 8px;
-}
-
-blockquote p {
-  margin: 0.4em 0;
-}
-
-h1, h2, h3 {
-  line-height: 1.3;
-}
-
-hr {
-  border: 0;
-  border-top: 1px solid #d0d7de;
-  margin: 1.5em 0;
-}
-
-img[src*="img.shields.io"] {
-  vertical-align: -0.15em;
-}
-
-.news-section {
-  margin-left: 174px;
-}
-
-.news-list {
-  margin: 20px 0 48px;
-}
-
-.news-item {
-  display: flex;
-  gap: 24px;
-  margin: 10px 0;
-}
-
-.news-date {
-  min-width: 72px;
-  font-weight: 600;
-  color: #57606a;
-}
-
-#news {
-  margin-top: 15px;
-}
-
-@media (max-width: 1000px) {
-  .side-nav {
-    display: none;
-  }
-
-  .page-content {
-    max-width: 100%;
-    margin: 32px auto;
-    padding: 0 20px;
-  }
-}
-
-@media (max-width: 750px) {
-  .timeline-item {
-    grid-template-columns: 1fr;
-    row-gap: 10px;
-  }
-
-  .timeline-date {
-    font-weight: 700;
-  }
-
-  .timeline-logo {
-    justify-content: flex-start;
-  }
-}
-
-@media (max-width: 700px) {
-  .profile {
-    flex-direction: column;
-  }
-
-  .profile img {
-    width: 100px;
-    height: 100px;
-  }
-
-  .news-section {
-    margin-left: 0;
-  }
-}
-</style>
-
 <nav class="side-nav">
   <a href="#profile">プロフィール</a>
   <a href="#news">ニュース</a>
@@ -244,7 +19,7 @@ img[src*="img.shields.io"] {
 [En](index.html)/Ja
 
 <div id="profile" class="profile">
-<img src="assets/profile.png" alt="巽 優衣">
+<img src="assets/images/profile.png" alt="巽 優衣">
 
   <div class="profile-content">
     <h1>巽 優衣 / Yui Tatsumi</h1>
@@ -361,7 +136,7 @@ img[src*="img.shields.io"] {
   <div class="timeline-item">
     <div class="timeline-date">2025年4月 - 現在</div>
     <div class="timeline-logo">
-      <img src="assets/waseda_logo.jpg" alt="早稲田大学">
+      <img src="assets/images/waseda_logo.jpg" alt="早稲田大学">
     </div>
     <div class="timeline-content">
       <h3>修士（工学）</h3>
@@ -379,7 +154,7 @@ img[src*="img.shields.io"] {
   <div class="timeline-item">
     <div class="timeline-date">2021年4月 - 2025年3月</div>
     <div class="timeline-logo">
-      <img src="assets/waseda_logo.jpg" alt="早稲田大学">
+      <img src="assets/images/waseda_logo.jpg" alt="早稲田大学">
     </div>
     <div class="timeline-content">
       <h3>学士（工学）</h3>
@@ -398,7 +173,7 @@ img[src*="img.shields.io"] {
   <div class="timeline-item">
     <div class="timeline-date">2018年9月 - 2021年3月</div>
     <div class="timeline-logo">
-      <img src="assets/icu_logo.jpg" alt="ICU High School">
+      <img src="assets/images/icu_logo.jpg" alt="ICU High School">
     </div>
     <div class="timeline-content">
       <h3>国際基督教大学高等学校</h3>
@@ -423,7 +198,7 @@ img[src*="img.shields.io"] {
   <div class="timeline-item">
     <div class="timeline-date">2026年4月 - 現在</div>
     <div class="timeline-logo">
-      <img src="assets/waseda_logo.jpg" alt="早稲田大学">
+      <img src="assets/images/waseda_logo.jpg" alt="早稲田大学">
     </div>
     <div class="timeline-content">
       <h3>ラーニングアシスタント</h3>
@@ -437,7 +212,7 @@ img[src*="img.shields.io"] {
   <div class="timeline-item">
     <div class="timeline-date">2024年4月 - 2026年3月</div>
     <div class="timeline-logo">
-      <img src="assets/nict_logo.png" alt="NICT">
+      <img src="assets/images/nict_logo.png" alt="NICT">
     </div>
     <div class="timeline-content">
       <h3>リサーチアシスタント</h3>
@@ -453,7 +228,7 @@ img[src*="img.shields.io"] {
   <div class="timeline-item">
     <div class="timeline-date">2026年1月</div>
     <div class="timeline-logo">
-      <img src="assets/hitachi_logo.jpg" alt="Hitachi">
+      <img src="assets/images/hitachi_logo.jpg" alt="Hitachi">
     </div>
     <div class="timeline-content">
       <h3>研究インターン</h3>
@@ -465,7 +240,7 @@ img[src*="img.shields.io"] {
   <div class="timeline-item">
     <div class="timeline-date">2025年10月</div>
     <div class="timeline-logo">
-      <img src="assets/waseda_logo.jpg" alt="早稲田大学">
+      <img src="assets/images/waseda_logo.jpg" alt="早稲田大学">
     </div>
     <div class="timeline-content">
       <h3>ティーチングアシスタント</h3>
@@ -479,7 +254,7 @@ img[src*="img.shields.io"] {
   <div class="timeline-item">
     <div class="timeline-date">2025年8月 - 2025年11月</div>
     <div class="timeline-logo">
-      <img src="assets/ibm_logo.png" alt="IBM">
+      <img src="assets/images/ibm_logo.png" alt="IBM">
     </div>
     <div class="timeline-content">
       <h3>研究インターン</h3>
@@ -491,7 +266,7 @@ img[src*="img.shields.io"] {
   <div class="timeline-item">
     <div class="timeline-date">2025年8月 - 2025年9月</div>
     <div class="timeline-logo">
-      <img src="assets/sansan_logo.png" alt="Sansan">
+      <img src="assets/images/sansan_logo.png" alt="Sansan">
     </div>
     <div class="timeline-content">
       <h3>研究インターン</h3>
